@@ -1,0 +1,501 @@
+﻿Nombre1;Apellido1;CUI_1;InstitucionBancaria1;Abreviatura1;TipoCuenta1;Nombre2;Apellido2;CUI_2;InstitucionBancaria2;Abreviatura2;TipoCuenta2;Monto;Fecha
+Boote;Pina;208181717;Banco Industrial;BI;Monetaria en Q;Abigale;Crann;1187255777;Banco Agromercantil;BAM;Monetaria en $;3248;2020-05-07 03:49:00
+Boote;Pina;208181717;Banco Industrial;BI;Monetaria en Q;Jeanie;Badman;2320648240;Banco G&T;G&T;Monetaria en Q;9708;2020-01-05 06:23:00
+Giordano;Rimington;270162925;Banco de desarrollo rural;BANRURAL;Ahorro;Antonetta;Bowler;4380702766;Banco de desarrollo rural;BANRURAL;Ahorro;9281;2020-12-25 06:47:00
+Giordano;Rimington;270162925;Banco de desarrollo rural;BANRURAL;Ahorro;Joelynn;De Gregoli;9835876975;Banco Promerica;Promerica;Ahorro;9825;2021-04-11 12:09:00
+Giordano;Rimington;270162925;Banco G&T;G&T;Monetaria en $;Colas;Feek;440057779;Banco G&T;G&T;Monetaria en $;1043;2020-01-06 12:52:00
+Giordano;Rimington;270162925;Banco G&T;G&T;Monetaria en $;Raff;Meah;3693967563;Banco G&T;G&T;Monetaria en $;4225;2021-02-06 18:35:00
+Giordano;Rimington;270162925;Banco G&T;G&T;Monetaria en $;Koressa;Knowler;7737952055;Banco Promerica;Promerica;Ahorro;5223;2021-02-26 16:07:00
+Giordano;Rimington;270162925;Banco G&T;G&T;Monetaria en $;Colas;Feek;440057779;Banco G&T;G&T;Monetaria en $;4420;2020-10-16 20:25:00
+Giordano;Rimington;270162925;Banco Industrial;BI;Ahorro;Cherry;Youtead;6393106875;Banco G&T;G&T;Monetaria en Q;506;2020-05-17 17:09:00
+Giordano;Rimington;270162925;Banco Industrial;BI;Ahorro;Collie;Leatherland;3334586502;Banco G&T;G&T;Monetaria en Q;8264;2020-10-05 09:43:00
+Giordano;Rimington;270162925;Banco Industrial;BI;Ahorro;Henriette;Stag;5203620156;Banco de desarrollo rural;BANRURAL;Monetaria en $;2356;2020-10-19 01:10:00
+Colas;Feek;440057779;Banco Agromercantil;BAM;Monetaria en $;Arleta;Umbert;1805028979;Banco G&T;G&T;Monetaria en Q;7825;2020-08-09 01:12:00
+Colas;Feek;440057779;Banco Agromercantil;BAM;Monetaria en $;Antonetta;Bowler;4380702766;Banco Agromercantil;BAM;Monetaria en $;4091;2020-02-23 04:15:00
+Colas;Feek;440057779;Banco G&T;G&T;Monetaria en $;Puff;Huerta;4474118367;Banco de desarrollo rural;BANRURAL;Monetaria en Q;6342;2020-02-16 20:54:00
+Colas;Feek;440057779;Banco G&T;G&T;Monetaria en $;Jarid;McEniry;7858016997;Banco de desarrollo rural;BANRURAL;Ahorro;8184;2021-03-03 20:48:00
+Colas;Feek;440057779;Banco Industrial;BI;Monetaria en $;Arlin;Bruckner;7819264039;Banco Promerica;Promerica;Ahorro;8166;2021-03-01 07:17:00
+Colas;Feek;440057779;Banco Industrial;BI;Monetaria en $;Joellen;Rickell;677914504;Banco Industrial;BI;Monetaria en Q;3974;2020-10-16 22:35:00
+Colas;Feek;440057779;Banco Industrial;BI;Monetaria en $;Maggee;Shergold;6816494733;Banco Industrial;BI;Monetaria en Q;5794;2021-02-02 05:57:00
+Kit;Tottman;445543914;Banco G&T;G&T;Monetaria en $;Konstanze;Blood;7873382966;Banco Industrial;BI;Ahorro;8341;2020-04-30 01:21:00
+Joellen;Rickell;677914504;Banco Industrial;BI;Monetaria en Q;Abigale;Crann;1187255777;Banco Industrial;BI;Ahorro;9287;2020-12-29 20:04:00
+Joellen;Rickell;677914504;Banco Industrial;BI;Monetaria en Q;Tina;De Beauchemp;6668839878;Banco Agromercantil;BAM;Ahorro;6183;2020-06-14 00:34:00
+Bobbette;Dutton;930849132;Banco G&T;G&T;Monetaria en $;Manuel;Gouldstone;2293547442;Banco G&T;G&T;Ahorro;8722;2020-11-06 23:35:00
+Bobbette;Dutton;930849132;Banco Industrial;BI;Ahorro;Tina;De Beauchemp;6668839878;Banco de desarrollo rural;BANRURAL;Monetaria en $;3872;2020-02-04 23:55:00
+Bobbette;Dutton;930849132;Banco Industrial;BI;Ahorro;Vonny;Westall;2354138652;Banco G&T;G&T;Monetaria en Q;1716;2020-11-09 10:17:00
+Bobbette;Dutton;930849132;Banco Promerica;Promerica;Ahorro;Maressa;Delgadillo;3899636643;Banco Industrial;BI;Ahorro;1497;2021-02-10 13:15:00
+Bobbette;Dutton;930849132;Banco Promerica;Promerica;Ahorro;Riva;Gaven;2897073799;Banco G&T;G&T;Monetaria en Q;796;2020-12-31 12:01:00
+Bobbette;Dutton;930849132;Banco Promerica;Promerica;Ahorro;Corliss;McCord;5563911438;Banco Agromercantil;BAM;Monetaria en $;5412;2020-12-14 04:58:00
+Abigale;Crann;1187255777;Banco Agromercantil;BAM;Monetaria en $;Joelynn;De Gregoli;9835876975;Banco Promerica;Promerica;Ahorro;6296;2020-04-28 10:56:00
+Abigale;Crann;1187255777;Banco Industrial;BI;Ahorro;Nelia;Hathway;1962610551;Banco Industrial;BI;Monetaria en $;7822;2020-03-20 16:10:00
+Abigale;Crann;1187255777;Banco Industrial;BI;Ahorro;Carmita;Hiscoke;8640571546;Banco Agromercantil;BAM;Monetaria en Q;7176;2021-01-07 17:31:00
+Abigale;Crann;1187255777;Banco Industrial;BI;Ahorro;Daffy;Marages;2720935689;Banco Promerica;Promerica;Monetaria en Q;9920;2020-12-22 08:46:00
+Chrissy;Fells;1432225464;Banco G&T;G&T;Ahorro;Alfie;Castellaccio;2344960856;Banco de desarrollo rural;BANRURAL;Monetaria en $;7349;2020-10-22 15:12:00
+Chrissy;Fells;1432225464;Banco Industrial;BI;Monetaria en $;Sax;Stephenson;4640351089;Banco Agromercantil;BAM;Ahorro;9661;2021-03-26 15:05:00
+Javier;Theodore;1485345081;Banco G&T;G&T;Monetaria en $;Jeanie;Badman;2320648240;Banco Promerica;Promerica;Monetaria en $;4123;2021-02-07 20:32:00
+Javier;Theodore;1485345081;Banco G&T;G&T;Monetaria en $;Vassili;Drowsfield;3345353652;Banco Agromercantil;BAM;Monetaria en Q;5761;2020-06-29 09:54:00
+Javier;Theodore;1485345081;Banco G&T;G&T;Monetaria en $;Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;5864;2020-12-12 09:38:00
+Javier;Theodore;1485345081;Banco Industrial;BI;Monetaria en $;Abigale;Crann;1187255777;Banco Industrial;BI;Ahorro;2510;2020-08-06 09:24:00
+Javier;Theodore;1485345081;Banco Industrial;BI;Monetaria en $;Hali;Peebles;1909436437;Banco de desarrollo rural;BANRURAL;Ahorro;6021;2020-05-25 08:02:00
+Javier;Theodore;1485345081;Banco Industrial;BI;Monetaria en $;Maggee;Shergold;6816494733;Banco Promerica;Promerica;Ahorro;3926;2020-08-18 21:22:00
+Javier;Theodore;1485345081;Banco Industrial;BI;Monetaria en $;Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;3216;2020-03-13 22:56:00
+Javier;Theodore;1485345081;Banco Industrial;BI;Monetaria en $;Ike;Nickels;6290621491;Banco de desarrollo rural;BANRURAL;Monetaria en Q;1425;2020-04-07 07:48:00
+Caryn;Kirkham;1581008589;Banco Agromercantil;BAM;Ahorro;Daffy;Marages;2720935689;Banco G&T;G&T;Monetaria en Q;1458;2020-03-12 09:45:00
+Caryn;Kirkham;1581008589;Banco Agromercantil;BAM;Ahorro;Nelia;Hathway;1962610551;Banco G&T;G&T;Monetaria en Q;7202;2020-09-01 15:56:00
+Caryn;Kirkham;1581008589;Banco Promerica;Promerica;Monetaria en $;Tripp;Ingree;3888897025;Banco Agromercantil;BAM;Ahorro;9741;2020-07-12 12:03:00
+Horatia;Brumpton;1653130695;Banco Agromercantil;BAM;Monetaria en $;Chrissy;Fells;1432225464;Banco Industrial;BI;Monetaria en $;2881;2021-03-18 08:54:00
+Horatia;Brumpton;1653130695;Banco Agromercantil;BAM;Monetaria en $;Alfie;Castellaccio;2344960856;Banco de desarrollo rural;BANRURAL;Monetaria en Q;7170;2021-01-28 20:48:00
+Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;Tina;De Beauchemp;6668839878;Banco Industrial;BI;Ahorro;6148;2020-06-29 05:40:00
+Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;Riva;Gaven;2897073799;Banco Promerica;Promerica;Monetaria en $;4920;2020-07-15 23:34:00
+Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;Joelynn;De Gregoli;9835876975;Banco G&T;G&T;Monetaria en Q;4946;2020-12-17 11:53:00
+Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;Vassili;Drowsfield;3345353652;Banco G&T;G&T;Monetaria en $;2200;2021-03-19 17:12:00
+Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;Arleta;Umbert;1805028979;Banco Promerica;Promerica;Monetaria en Q;8666;2021-01-20 17:07:00
+Horatia;Brumpton;1653130695;Banco G&T;G&T;Monetaria en Q;Koressa;Knowler;7737952055;Banco G&T;G&T;Monetaria en $;1883;2021-03-18 16:18:00
+Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;Sascha;Kennedy;4464029000;Banco Promerica;Promerica;Ahorro;8885;2021-01-04 05:54:00
+Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;Elnore;Foy;6154977174;Banco de desarrollo rural;BANRURAL;Ahorro;2476;2020-07-09 13:27:00
+Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;Daffy;Marages;2720935689;Banco G&T;G&T;Monetaria en Q;4740;2020-10-31 17:28:00
+Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;Inga;Cromleholme;3179095431;Banco Promerica;Promerica;Monetaria en $;3594;2021-03-23 00:50:00
+Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;Luelle;Barenskie;8068530312;Banco G&T;G&T;Monetaria en Q;3628;2020-11-07 19:07:00
+Horatia;Brumpton;1653130695;Banco G&T;G&T;Monetaria en Q;Koressa;Knowler;7737952055;Banco de desarrollo rural;BANRURAL;Monetaria en $;5346;2020-06-21 03:34:00
+Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;Inga;Cromleholme;3179095431;Banco Industrial;BI;Ahorro;737;2021-02-17 01:29:00
+Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;Deni;Tarn;6467582497;Banco de desarrollo rural;BANRURAL;Monetaria en $;2721;2020-03-25 22:57:00
+Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;Riva;Gaven;2897073799;Banco Promerica;Promerica;Monetaria en $;357;2020-11-12 08:01:00
+Arleta;Umbert;1805028979;Banco de desarrollo rural;BANRURAL;Ahorro;Sunny;Alvin;6456388384;Banco Promerica;Promerica;Monetaria en $;8361;2020-09-01 08:38:00
+Arleta;Umbert;1805028979;Banco de desarrollo rural;BANRURAL;Ahorro;Colas;Feek;440057779;Banco Agromercantil;BAM;Monetaria en $;4132;2021-02-05 11:04:00
+Arleta;Umbert;1805028979;Banco G&T;G&T;Monetaria en Q;Antonetta;Bowler;4380702766;Banco Agromercantil;BAM;Monetaria en $;4667;2020-11-10 04:21:00
+Arleta;Umbert;1805028979;Banco G&T;G&T;Monetaria en Q;Daffy;Marages;2720935689;Banco Promerica;Promerica;Monetaria en Q;3913;2020-08-16 21:45:00
+Arleta;Umbert;1805028979;Banco G&T;G&T;Monetaria en Q;Cherry;Youtead;6393106875;Banco Promerica;Promerica;Ahorro;4177;2020-10-01 07:29:00
+Arleta;Umbert;1805028979;Banco G&T;G&T;Monetaria en Q;Deni;Tarn;6467582497;Banco G&T;G&T;Monetaria en Q;1126;2020-05-31 04:56:00
+Arleta;Umbert;1805028979;Banco G&T;G&T;Monetaria en Q;Bobbette;Dutton;930849132;Banco Industrial;BI;Ahorro;3974;2021-01-10 03:44:00
+Arleta;Umbert;1805028979;Banco G&T;G&T;Monetaria en Q;Renard;Pelchat;8373980261;Banco Promerica;Promerica;Ahorro;7983;2020-07-13 14:11:00
+Arleta;Umbert;1805028979;Banco Industrial;BI;Monetaria en $;Vassili;Drowsfield;3345353652;Banco Agromercantil;BAM;Monetaria en Q;8206;2020-05-14 09:31:00
+Arleta;Umbert;1805028979;Banco Industrial;BI;Monetaria en $;Caryn;Kirkham;1581008589;Banco Agromercantil;BAM;Ahorro;6840;2020-11-23 03:33:00
+Morly;Pundy;1833280679;Banco Promerica;Promerica;Monetaria en Q;Raff;Meah;3693967563;Banco Industrial;BI;Ahorro;6521;2020-07-13 05:06:00
+Hali;Peebles;1909436437;Banco de desarrollo rural;BANRURAL;Ahorro;Morgun;Coots;6920115220;Banco Industrial;BI;Monetaria en Q;4310;2020-06-08 15:14:00
+Hali;Peebles;1909436437;Banco de desarrollo rural;BANRURAL;Ahorro;Koressa;Knowler;7737952055;Banco Promerica;Promerica;Ahorro;5896;2021-02-16 18:50:00
+Hali;Peebles;1909436437;Banco de desarrollo rural;BANRURAL;Ahorro;Phaidra;Thornthwaite;7422400781;Banco de desarrollo rural;BANRURAL;Monetaria en Q;3466;2021-03-28 07:42:00
+Hali;Peebles;1909436437;Banco de desarrollo rural;BANRURAL;Ahorro;Ddene;Tant;2293083373;Banco de desarrollo rural;BANRURAL;Monetaria en $;6129;2021-01-01 10:03:00
+Hali;Peebles;1909436437;Banco de desarrollo rural;BANRURAL;Ahorro;Chrissy;Fells;1432225464;Banco Industrial;BI;Monetaria en $;5965;2020-04-11 10:09:00
+Hali;Peebles;1909436437;Banco de desarrollo rural;BANRURAL;Ahorro;Margo;Aspinall;8574878405;Banco de desarrollo rural;BANRURAL;Monetaria en $;4065;2020-12-29 21:32:00
+Hali;Peebles;1909436437;Banco de desarrollo rural;BANRURAL;Ahorro;Manuel;Gouldstone;2293547442;Banco Industrial;BI;Monetaria en $;1574;2020-10-09 19:22:00
+Hali;Peebles;1909436437;Banco Industrial;BI;Monetaria en Q;Corliss;McCord;5563911438;Banco Agromercantil;BAM;Monetaria en $;3449;2020-07-14 17:32:00
+Hali;Peebles;1909436437;Banco Industrial;BI;Monetaria en Q;Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;858;2020-08-04 09:05:00
+Hali;Peebles;1909436437;Banco Promerica;Promerica;Monetaria en $;Maggee;Shergold;6816494733;Banco Industrial;BI;Monetaria en Q;5209;2020-05-12 07:45:00
+Hali;Peebles;1909436437;Banco Promerica;Promerica;Monetaria en $;Margo;Aspinall;8574878405;Banco de desarrollo rural;BANRURAL;Monetaria en $;2520;2020-01-13 17:21:00
+Hali;Peebles;1909436437;Banco Promerica;Promerica;Monetaria en $;Tina;De Beauchemp;6668839878;Banco Agromercantil;BAM;Ahorro;1997;2020-04-26 00:47:00
+Hali;Peebles;1909436437;Banco Promerica;Promerica;Ahorro;Janith;Metheringham;6172401947;Banco Industrial;BI;Monetaria en $;9945;2021-03-31 09:53:00
+Hali;Peebles;1909436437;Banco Promerica;Promerica;Ahorro;Leonid;Berrey;9488599294;Banco Promerica;Promerica;Monetaria en $;8930;2020-06-18 21:28:00
+Stormy;Mathieu;1952883946;Banco G&T;G&T;Monetaria en $;Joelynn;De Gregoli;9835876975;Banco G&T;G&T;Monetaria en Q;5245;2020-07-29 08:41:00
+Stormy;Mathieu;1952883946;Banco G&T;G&T;Monetaria en $;Cherry;Youtead;6393106875;Banco de desarrollo rural;BANRURAL;Monetaria en Q;4240;2020-03-04 20:50:00
+Stormy;Mathieu;1952883946;Banco G&T;G&T;Monetaria en $;Morgun;Coots;6920115220;Banco G&T;G&T;Monetaria en $;8588;2020-05-05 01:20:00
+Nelia;Hathway;1962610551;Banco G&T;G&T;Monetaria en Q;Paul;Fleming;5878519224;Banco Promerica;Promerica;Monetaria en $;8373;2021-02-24 16:20:00
+Nelia;Hathway;1962610551;Banco G&T;G&T;Monetaria en Q;Sax;Stephenson;4640351089;Banco Agromercantil;BAM;Ahorro;3307;2020-08-11 20:39:00
+Nelia;Hathway;1962610551;Banco Industrial;BI;Monetaria en Q;Alfie;Castellaccio;2344960856;Banco de desarrollo rural;BANRURAL;Ahorro;8245;2020-10-11 02:34:00
+Nelia;Hathway;1962610551;Banco Industrial;BI;Monetaria en Q;Ty;Kittow;1976810418;Banco de desarrollo rural;BANRURAL;Ahorro;9166;2020-02-07 09:04:00
+Nelia;Hathway;1962610551;Banco Industrial;BI;Monetaria en Q;Antonetta;Bowler;4380702766;Banco Agromercantil;BAM;Monetaria en $;6035;2020-01-13 14:19:00
+Nelia;Hathway;1962610551;Banco Industrial;BI;Monetaria en Q;Javier;Theodore;1485345081;Banco Industrial;BI;Monetaria en $;677;2020-07-18 07:15:00
+Nelia;Hathway;1962610551;Banco Industrial;BI;Monetaria en Q;Collie;Leatherland;3334586502;Banco G&T;G&T;Monetaria en Q;4209;2021-01-19 13:43:00
+Nelia;Hathway;1962610551;Banco Industrial;BI;Monetaria en Q;Luelle;Barenskie;8068530312;Banco G&T;G&T;Monetaria en Q;4341;2020-01-12 11:30:00
+Nelia;Hathway;1962610551;Banco Industrial;BI;Monetaria en $;Devin;Sheere;2286509069;Banco Agromercantil;BAM;Ahorro;5064;2020-02-01 00:55:00
+Nelia;Hathway;1962610551;Banco Industrial;BI;Monetaria en Q;Jeanie;Badman;2320648240;Banco Agromercantil;BAM;Ahorro;7622;2020-07-20 23:48:00
+Nelia;Hathway;1962610551;Banco Promerica;Promerica;Monetaria en $;Tripp;Ingree;3888897025;Banco Agromercantil;BAM;Ahorro;9280;2020-12-26 04:31:00
+Nelia;Hathway;1962610551;Banco Promerica;Promerica;Monetaria en $;Ddene;Tant;2293083373;Banco de desarrollo rural;BANRURAL;Monetaria en $;3455;2020-07-04 03:02:00
+Nelia;Hathway;1962610551;Banco Promerica;Promerica;Monetaria en $;Kizzie;Pettman;6981272008;Banco Promerica;Promerica;Ahorro;6445;2021-01-08 13:14:00
+Nelia;Hathway;1962610551;Banco Promerica;Promerica;Monetaria en $;Alfie;Castellaccio;2344960856;Banco Agromercantil;BAM;Monetaria en Q;6835;2020-11-01 21:46:00
+Ty;Kittow;1976810418;Banco de desarrollo rural;BANRURAL;Ahorro;Dale;Goslin;4243293546;Banco Promerica;Promerica;Ahorro;3682;2020-06-07 16:48:00
+Ty;Kittow;1976810418;Banco de desarrollo rural;BANRURAL;Ahorro;Renard;Pelchat;8373980261;Banco Promerica;Promerica;Ahorro;6682;2021-03-18 20:43:00
+Ty;Kittow;1976810418;Banco de desarrollo rural;BANRURAL;Ahorro;Devin;Sheere;2286509069;Banco G&T;G&T;Monetaria en Q;6600;2021-04-11 08:34:00
+Ty;Kittow;1976810418;Banco de desarrollo rural;BANRURAL;Ahorro;Deni;Tarn;6467582497;Banco Promerica;Promerica;Monetaria en $;4965;2020-09-07 02:57:00
+Ty;Kittow;1976810418;Banco G&T;G&T;Monetaria en $;Morly;Pundy;1833280679;Banco Promerica;Promerica;Monetaria en Q;9549;2020-12-18 05:54:00
+Ty;Kittow;1976810418;Banco G&T;G&T;Monetaria en $;Colas;Feek;440057779;Banco Industrial;BI;Monetaria en $;9129;2020-03-01 00:41:00
+Ty;Kittow;1976810418;Banco G&T;G&T;Monetaria en $;Kit;Tottman;445543914;Banco G&T;G&T;Monetaria en $;3009;2021-01-24 03:43:00
+Devin;Sheere;2286509069;Banco Agromercantil;BAM;Ahorro;Caryn;Kirkham;1581008589;Banco Agromercantil;BAM;Ahorro;5077;2020-03-08 16:22:00
+Devin;Sheere;2286509069;Banco G&T;G&T;Monetaria en Q;Kizzie;Pettman;6981272008;Banco Industrial;BI;Ahorro;6380;2021-03-30 22:10:00
+Devin;Sheere;2286509069;Banco Industrial;BI;Monetaria en Q;Raff;Meah;3693967563;Banco G&T;G&T;Monetaria en $;6039;2020-08-24 20:32:00
+Devin;Sheere;2286509069;Banco Industrial;BI;Monetaria en Q;Sunny;Alvin;6456388384;Banco Agromercantil;BAM;Monetaria en $;7262;2020-05-14 16:41:00
+Devin;Sheere;2286509069;Banco Industrial;BI;Monetaria en Q;Arleta;Umbert;1805028979;Banco G&T;G&T;Monetaria en Q;3027;2021-03-07 20:10:00
+Devin;Sheere;2286509069;Banco Industrial;BI;Monetaria en Q;Janith;Metheringham;6172401947;Banco Industrial;BI;Monetaria en $;6406;2021-02-19 20:31:00
+Ddene;Tant;2293083373;Banco de desarrollo rural;BANRURAL;Monetaria en $;Vassili;Drowsfield;3345353652;Banco G&T;G&T;Monetaria en $;566;2020-02-02 22:31:00
+Ddene;Tant;2293083373;Banco de desarrollo rural;BANRURAL;Monetaria en $;Javier;Theodore;1485345081;Banco Industrial;BI;Monetaria en $;8856;2020-08-22 20:00:00
+Ddene;Tant;2293083373;Banco Industrial;BI;Ahorro;Vassili;Drowsfield;3345353652;Banco Agromercantil;BAM;Monetaria en Q;4743;2020-03-16 11:40:00
+Ddene;Tant;2293083373;Banco Industrial;BI;Ahorro;Jolie;Tollfree;4105124471;Banco G&T;G&T;Monetaria en $;516;2020-11-30 15:03:00
+Manuel;Gouldstone;2293547442;Banco G&T;G&T;Ahorro;Maressa;Delgadillo;3899636643;Banco Industrial;BI;Ahorro;9341;2021-02-22 15:22:00
+Manuel;Gouldstone;2293547442;Banco G&T;G&T;Ahorro;Esme;Seifenmacher;7341877243;Banco Industrial;BI;Monetaria en $;6352;2020-06-27 13:43:00
+Manuel;Gouldstone;2293547442;Banco G&T;G&T;Ahorro;Willie;Brahan;3601075148;Banco G&T;G&T;Monetaria en $;6122;2020-10-29 02:26:00
+Manuel;Gouldstone;2293547442;Banco G&T;G&T;Ahorro;Raff;Meah;3693967563;Banco G&T;G&T;Monetaria en $;9187;2021-01-31 05:33:00
+Manuel;Gouldstone;2293547442;Banco Industrial;BI;Monetaria en $;Kizzie;Pettman;6981272008;Banco Industrial;BI;Ahorro;3209;2020-03-19 08:38:00
+Manuel;Gouldstone;2293547442;Banco Industrial;BI;Monetaria en $;Cherry;Youtead;6393106875;Banco de desarrollo rural;BANRURAL;Monetaria en Q;9795;2020-06-08 23:28:00
+Manuel;Gouldstone;2293547442;Banco Industrial;BI;Monetaria en $;Corliss;McCord;5563911438;Banco Agromercantil;BAM;Monetaria en $;1678;2020-02-06 08:09:00
+Jeanie;Badman;2320648240;Banco Agromercantil;BAM;Ahorro;Maressa;Delgadillo;3899636643;Banco Industrial;BI;Ahorro;223;2021-04-15 21:58:00
+Jeanie;Badman;2320648240;Banco Agromercantil;BAM;Ahorro;Sascha;Kennedy;4464029000;Banco G&T;G&T;Monetaria en $;5970;2021-01-17 20:54:00
+Jeanie;Badman;2320648240;Banco G&T;G&T;Monetaria en Q;Deni;Tarn;6467582497;Banco Agromercantil;BAM;Monetaria en Q;7158;2020-12-10 16:52:00
+Jeanie;Badman;2320648240;Banco G&T;G&T;Monetaria en Q;Esme;Seifenmacher;7341877243;Banco Industrial;BI;Monetaria en $;2453;2020-10-23 00:10:00
+Jeanie;Badman;2320648240;Banco G&T;G&T;Monetaria en Q;Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;385;2021-01-18 03:20:00
+Jeanie;Badman;2320648240;Banco G&T;G&T;Monetaria en Q;Sascha;Kennedy;4464029000;Banco Promerica;Promerica;Ahorro;94;2021-03-05 18:40:00
+Jeanie;Badman;2320648240;Banco G&T;G&T;Monetaria en Q;Bobbette;Dutton;930849132;Banco Promerica;Promerica;Ahorro;8936;2020-08-07 23:15:00
+Jeanie;Badman;2320648240;Banco G&T;G&T;Monetaria en Q;Colas;Feek;440057779;Banco Agromercantil;BAM;Monetaria en $;9618;2020-01-06 16:43:00
+Jeanie;Badman;2320648240;Banco G&T;G&T;Monetaria en Q;Nelia;Hathway;1962610551;Banco G&T;G&T;Monetaria en Q;8221;2020-01-28 20:33:00
+Jeanie;Badman;2320648240;Banco Promerica;Promerica;Monetaria en $;Sunny;Alvin;6456388384;Banco Agromercantil;BAM;Monetaria en $;9712;2021-02-18 02:28:00
+Jeanie;Badman;2320648240;Banco Promerica;Promerica;Monetaria en $;Cherise;Pluvier;9622621546;Banco Industrial;BI;Ahorro;3872;2020-02-09 14:59:00
+Alfie;Castellaccio;2344960856;Banco Agromercantil;BAM;Monetaria en Q;Ardys;Cave;3418211453;Banco Promerica;Promerica;Ahorro;9717;2020-08-18 13:09:00
+Alfie;Castellaccio;2344960856;Banco Agromercantil;BAM;Monetaria en Q;Elnore;Foy;6154977174;Banco de desarrollo rural;BANRURAL;Ahorro;5561;2020-07-12 00:42:00
+Alfie;Castellaccio;2344960856;Banco Agromercantil;BAM;Monetaria en Q;Hali;Peebles;1909436437;Banco Promerica;Promerica;Ahorro;8521;2020-01-18 06:57:00
+Alfie;Castellaccio;2344960856;Banco Agromercantil;BAM;Monetaria en Q;Inga;Cromleholme;3179095431;Banco Agromercantil;BAM;Ahorro;3597;2020-03-03 01:44:00
+Alfie;Castellaccio;2344960856;Banco Agromercantil;BAM;Monetaria en Q;Deni;Tarn;6467582497;Banco de desarrollo rural;BANRURAL;Monetaria en $;8855;2021-02-20 05:31:00
+Alfie;Castellaccio;2344960856;Banco de desarrollo rural;BANRURAL;Monetaria en $;Bobbette;Dutton;930849132;Banco Industrial;BI;Ahorro;4935;2020-03-04 11:20:00
+Alfie;Castellaccio;2344960856;Banco de desarrollo rural;BANRURAL;Monetaria en Q;Deni;Tarn;6467582497;Banco de desarrollo rural;BANRURAL;Monetaria en $;653;2021-03-05 21:38:00
+Alfie;Castellaccio;2344960856;Banco de desarrollo rural;BANRURAL;Monetaria en Q;Cherry;Youtead;6393106875;Banco de desarrollo rural;BANRURAL;Monetaria en Q;7237;2020-05-22 10:39:00
+Alfie;Castellaccio;2344960856;Banco de desarrollo rural;BANRURAL;Monetaria en $;Ddene;Tant;2293083373;Banco Industrial;BI;Ahorro;7846;2020-03-19 02:20:00
+Alfie;Castellaccio;2344960856;Banco de desarrollo rural;BANRURAL;Monetaria en $;Maggee;Shergold;6816494733;Banco Promerica;Promerica;Ahorro;3414;2020-09-15 12:39:00
+Alfie;Castellaccio;2344960856;Banco de desarrollo rural;BANRURAL;Monetaria en Q;Alfie;Castellaccio;2344960856;Banco Agromercantil;BAM;Monetaria en Q;9454;2020-10-30 04:55:00
+Alfie;Castellaccio;2344960856;Banco de desarrollo rural;BANRURAL;Ahorro;Ty;Kittow;1976810418;Banco G&T;G&T;Monetaria en $;554;2021-03-08 21:54:00
+Alfie;Castellaccio;2344960856;Banco G&T;G&T;Monetaria en $;Neill;Esser;7964176803;Banco Industrial;BI;Monetaria en Q;3874;2021-01-14 07:27:00
+Alfie;Castellaccio;2344960856;Banco G&T;G&T;Monetaria en $;Deni;Tarn;6467582497;Banco de desarrollo rural;BANRURAL;Monetaria en $;3745;2020-10-17 05:01:00
+Alfie;Castellaccio;2344960856;Banco G&T;G&T;Monetaria en $;Hali;Peebles;1909436437;Banco Promerica;Promerica;Monetaria en $;5131;2021-03-12 02:11:00
+Alfie;Castellaccio;2344960856;Banco G&T;G&T;Monetaria en $;Inga;Cromleholme;3179095431;Banco Industrial;BI;Ahorro;8776;2020-02-08 18:37:00
+Vonny;Westall;2354138652;Banco G&T;G&T;Monetaria en Q;Tina;De Beauchemp;6668839878;Banco Promerica;Promerica;Monetaria en $;2590;2020-06-10 23:59:00
+Vonny;Westall;2354138652;Banco G&T;G&T;Monetaria en Q;Bobbette;Dutton;930849132;Banco Industrial;BI;Ahorro;2266;2021-02-03 15:22:00
+Vonny;Westall;2354138652;Banco G&T;G&T;Ahorro;Morgun;Coots;6920115220;Banco G&T;G&T;Monetaria en $;7207;2020-10-08 04:46:00
+Vonny;Westall;2354138652;Banco G&T;G&T;Monetaria en Q;Colas;Feek;440057779;Banco G&T;G&T;Monetaria en $;9248;2020-12-06 07:59:00
+Vonny;Westall;2354138652;Banco G&T;G&T;Ahorro;Alfie;Castellaccio;2344960856;Banco de desarrollo rural;BANRURAL;Ahorro;7205;2020-06-18 10:10:00
+Vonny;Westall;2354138652;Banco G&T;G&T;Ahorro;Arlin;Bruckner;7819264039;Banco Promerica;Promerica;Monetaria en Q;9375;2020-10-14 21:08:00
+Daffy;Marages;2720935689;Banco G&T;G&T;Monetaria en Q;Ardys;Cave;3418211453;Banco Promerica;Promerica;Ahorro;9387;2020-10-07 05:47:00
+Daffy;Marages;2720935689;Banco G&T;G&T;Monetaria en Q;Raff;Meah;3693967563;Banco Industrial;BI;Ahorro;5017;2020-09-16 23:38:00
+Daffy;Marages;2720935689;Banco Promerica;Promerica;Monetaria en Q;Maggee;Shergold;6816494733;Banco Promerica;Promerica;Monetaria en Q;151;2020-05-05 11:21:00
+Daffy;Marages;2720935689;Banco Promerica;Promerica;Monetaria en Q;Maggee;Shergold;6816494733;Banco Promerica;Promerica;Ahorro;739;2021-04-02 15:11:00
+Daffy;Marages;2720935689;Banco Promerica;Promerica;Monetaria en Q;Stormy;Mathieu;1952883946;Banco Agromercantil;BAM;Ahorro;2652;2021-03-14 23:26:00
+Leonelle;Copp;2843482992;Banco Agromercantil;BAM;Monetaria en $;Boote;Pina;208181717;Banco G&T;G&T;Monetaria en $;5715;2020-06-30 02:23:00
+Leonelle;Copp;2843482992;Banco Agromercantil;BAM;Monetaria en $;Corliss;McCord;5563911438;Banco Promerica;Promerica;Monetaria en $;8745;2020-04-09 10:18:00
+Riva;Gaven;2897073799;Banco Agromercantil;BAM;Monetaria en Q;Tina;De Beauchemp;6668839878;Banco Industrial;BI;Ahorro;7459;2020-01-07 07:13:00
+Riva;Gaven;2897073799;Banco Agromercantil;BAM;Monetaria en Q;Tina;De Beauchemp;6668839878;Banco Industrial;BI;Ahorro;143;2021-01-19 15:49:00
+Riva;Gaven;2897073799;Banco Agromercantil;BAM;Monetaria en Q;Maressa;Delgadillo;3899636643;Banco Industrial;BI;Ahorro;1901;2021-03-08 08:05:00
+Riva;Gaven;2897073799;Banco Promerica;Promerica;Monetaria en Q;Riva;Gaven;2897073799;Banco Promerica;Promerica;Monetaria en $;501;2020-06-12 21:47:00
+Riva;Gaven;2897073799;Banco Promerica;Promerica;Monetaria en $;Arlin;Bruckner;7819264039;Banco Promerica;Promerica;Ahorro;4737;2020-09-01 17:10:00
+Riva;Gaven;2897073799;Banco Promerica;Promerica;Monetaria en $;Devin;Sheere;2286509069;Banco G&T;G&T;Monetaria en Q;9936;2020-01-29 15:59:00
+Riva;Gaven;2897073799;Banco Promerica;Promerica;Monetaria en Q;Riva;Gaven;2897073799;Banco G&T;G&T;Monetaria en Q;2883;2020-03-22 19:58:00
+Riva;Gaven;2897073799;Banco Promerica;Promerica;Monetaria en $;Hieronymus;Penn;3070506224;Banco de desarrollo rural;BANRURAL;Monetaria en $;9607;2020-12-10 18:52:00
+Riva;Gaven;2897073799;Banco Promerica;Promerica;Monetaria en $;Luelle;Barenskie;8068530312;Banco G&T;G&T;Monetaria en Q;4548;2020-04-10 10:30:00
+Hieronymus;Penn;3070506224;Banco de desarrollo rural;BANRURAL;Monetaria en $;Inga;Cromleholme;3179095431;Banco Promerica;Promerica;Ahorro;1076;2020-02-05 05:34:00
+Hieronymus;Penn;3070506224;Banco de desarrollo rural;BANRURAL;Monetaria en $;Tina;De Beauchemp;6668839878;Banco Agromercantil;BAM;Ahorro;156;2021-04-14 06:36:00
+Hieronymus;Penn;3070506224;Banco de desarrollo rural;BANRURAL;Monetaria en $;Nelia;Hathway;1962610551;Banco Industrial;BI;Monetaria en $;8404;2020-04-01 05:37:00
+Hieronymus;Penn;3070506224;Banco de desarrollo rural;BANRURAL;Monetaria en $;Henriette;Stag;5203620156;Banco de desarrollo rural;BANRURAL;Monetaria en $;3499;2020-06-10 19:28:00
+Inga;Cromleholme;3179095431;Banco Industrial;BI;Ahorro;Raff;Meah;3693967563;Banco G&T;G&T;Monetaria en $;3132;2020-11-18 14:49:00
+Inga;Cromleholme;3179095431;Banco Industrial;BI;Ahorro;Inga;Cromleholme;3179095431;Banco Promerica;Promerica;Ahorro;9750;2020-06-18 13:50:00
+Inga;Cromleholme;3179095431;Banco Industrial;BI;Ahorro;Koressa;Knowler;7737952055;Banco de desarrollo rural;BANRURAL;Monetaria en $;7134;2020-02-16 00:51:00
+Inga;Cromleholme;3179095431;Banco Industrial;BI;Ahorro;Neill;Esser;7964176803;Banco Industrial;BI;Monetaria en $;6824;2020-12-18 18:15:00
+Inga;Cromleholme;3179095431;Banco Industrial;BI;Ahorro;Konstanze;Blood;7873382966;Banco Industrial;BI;Ahorro;951;2021-03-09 11:51:00
+Inga;Cromleholme;3179095431;Banco Promerica;Promerica;Ahorro;Nelia;Hathway;1962610551;Banco Industrial;BI;Monetaria en Q;9230;2020-08-28 23:21:00
+Inga;Cromleholme;3179095431;Banco Promerica;Promerica;Monetaria en $;Inga;Cromleholme;3179095431;Banco Promerica;Promerica;Monetaria en $;1997;2020-06-03 11:36:00
+Inga;Cromleholme;3179095431;Banco Promerica;Promerica;Ahorro;Dale;Goslin;4243293546;Banco G&T;G&T;Ahorro;1141;2020-12-04 15:06:00
+Inga;Cromleholme;3179095431;Banco Promerica;Promerica;Ahorro;Cherise;Pluvier;9622621546;Banco Industrial;BI;Ahorro;6036;2020-08-04 19:08:00
+Jeanne;Ciottoi;3199681735;Banco de desarrollo rural;BANRURAL;Monetaria en $;Leann;Buncher;7589827045;Banco Industrial;BI;Monetaria en $;6229;2020-11-11 01:28:00
+Jeanne;Ciottoi;3199681735;Banco de desarrollo rural;BANRURAL;Monetaria en $;Alfie;Castellaccio;2344960856;Banco G&T;G&T;Monetaria en $;7753;2020-10-06 17:50:00
+Ulla;Balloch;3278286464;Banco G&T;G&T;Monetaria en $;Jarid;McEniry;7858016997;Banco de desarrollo rural;BANRURAL;Ahorro;139;2020-01-20 19:55:00
+Ulla;Balloch;3278286464;Banco Promerica;Promerica;Monetaria en Q;Arlin;Bruckner;7819264039;Banco de desarrollo rural;BANRURAL;Monetaria en $;3360;2020-01-30 13:02:00
+Collie;Leatherland;3334586502;Banco Industrial;BI;Monetaria en Q;Elnore;Foy;6154977174;Banco de desarrollo rural;BANRURAL;Ahorro;9464;2020-10-16 11:48:00
+Collie;Leatherland;3334586502;Banco Industrial;BI;Monetaria en Q;Antonetta;Bowler;4380702766;Banco Agromercantil;BAM;Monetaria en $;9661;2020-11-05 02:26:00
+Collie;Leatherland;3334586502;Banco Industrial;BI;Monetaria en Q;Margo;Aspinall;8574878405;Banco Industrial;BI;Monetaria en $;3739;2020-08-12 06:08:00
+Collie;Leatherland;3334586502;Banco Industrial;BI;Monetaria en Q;Gracia;Burchill;5981356200;Banco Promerica;Promerica;Monetaria en $;9965;2020-07-22 17:46:00
+Collie;Leatherland;3334586502;Banco Industrial;BI;Monetaria en Q;Konstanze;Blood;7873382966;Banco Promerica;Promerica;Monetaria en Q;7221;2020-10-19 08:50:00
+Collie;Leatherland;3334586502;Banco Promerica;Promerica;Ahorro;Vassili;Drowsfield;3345353652;Banco Agromercantil;BAM;Monetaria en Q;5184;2020-06-13 10:31:00
+Collie;Leatherland;3334586502;Banco Promerica;Promerica;Ahorro;Arleta;Umbert;1805028979;Banco G&T;G&T;Monetaria en Q;841;2020-02-14 14:46:00
+Collie;Leatherland;3334586502;Banco Promerica;Promerica;Ahorro;Dale;Goslin;4243293546;Banco G&T;G&T;Ahorro;388;2021-03-25 00:58:00
+Collie;Leatherland;3334586502;Banco Promerica;Promerica;Ahorro;Morgun;Coots;6920115220;Banco G&T;G&T;Monetaria en $;9145;2021-04-13 23:54:00
+Vassili;Drowsfield;3345353652;Banco Agromercantil;BAM;Monetaria en Q;Sax;Stephenson;4640351089;Banco Agromercantil;BAM;Ahorro;7674;2021-03-11 13:38:00
+Vassili;Drowsfield;3345353652;Banco Agromercantil;BAM;Monetaria en Q;Bobbette;Dutton;930849132;Banco Industrial;BI;Ahorro;2502;2020-01-03 19:52:00
+Vassili;Drowsfield;3345353652;Banco G&T;G&T;Monetaria en $;Devin;Sheere;2286509069;Banco G&T;G&T;Monetaria en Q;3890;2020-08-05 23:25:00
+Vassili;Drowsfield;3345353652;Banco G&T;G&T;Monetaria en $;Alexander;Amor;7361225500;Banco Promerica;Promerica;Ahorro;7797;2020-04-06 10:56:00
+Vassili;Drowsfield;3345353652;Banco G&T;G&T;Monetaria en $;Nelia;Hathway;1962610551;Banco Promerica;Promerica;Monetaria en $;7938;2020-09-06 05:41:00
+Vassili;Drowsfield;3345353652;Banco Promerica;Promerica;Ahorro;Lauralee;Britnell;8712012858;Banco Industrial;BI;Monetaria en Q;8911;2021-01-15 16:53:00
+Vassili;Drowsfield;3345353652;Banco Promerica;Promerica;Ahorro;Hali;Peebles;1909436437;Banco Industrial;BI;Monetaria en Q;61;2021-03-14 12:27:00
+Vassili;Drowsfield;3345353652;Banco Promerica;Promerica;Ahorro;Phaidra;Thornthwaite;7422400781;Banco Agromercantil;BAM;Monetaria en Q;4728;2020-04-19 23:43:00
+Ardys;Cave;3418211453;Banco Promerica;Promerica;Ahorro;Leonid;Berrey;9488599294;Banco Promerica;Promerica;Monetaria en $;6454;2020-10-01 20:17:00
+Ardys;Cave;3418211453;Banco Promerica;Promerica;Ahorro;Joelynn;De Gregoli;9835876975;Banco Promerica;Promerica;Ahorro;6311;2021-03-27 20:25:00
+Willie;Brahan;3601075148;Banco G&T;G&T;Monetaria en $;Deni;Tarn;6467582497;Banco G&T;G&T;Monetaria en $;377;2020-09-28 08:49:00
+Willie;Brahan;3601075148;Banco G&T;G&T;Monetaria en $;Inga;Cromleholme;3179095431;Banco Promerica;Promerica;Monetaria en $;5593;2020-09-19 22:35:00
+Willie;Brahan;3601075148;Banco G&T;G&T;Monetaria en $;Riva;Gaven;2897073799;Banco Promerica;Promerica;Monetaria en Q;9060;2020-02-12 02:21:00
+Willie;Brahan;3601075148;Banco G&T;G&T;Monetaria en $;Maressa;Delgadillo;3899636643;Banco Industrial;BI;Ahorro;3369;2020-04-05 21:23:00
+Willie;Brahan;3601075148;Banco G&T;G&T;Monetaria en $;Vassili;Drowsfield;3345353652;Banco Agromercantil;BAM;Monetaria en Q;2118;2020-01-24 11:52:00
+Willie;Brahan;3601075148;Banco Promerica;Promerica;Monetaria en $;Konstanze;Blood;7873382966;Banco Agromercantil;BAM;Monetaria en $;4731;2020-08-13 08:36:00
+Willie;Brahan;3601075148;Banco Promerica;Promerica;Monetaria en $;Jolie;Tollfree;4105124471;Banco G&T;G&T;Monetaria en $;2295;2020-10-23 03:59:00
+Willie;Brahan;3601075148;Banco Promerica;Promerica;Monetaria en $;Deni;Tarn;6467582497;Banco G&T;G&T;Monetaria en $;2936;2020-06-21 05:40:00
+Willie;Brahan;3601075148;Banco Promerica;Promerica;Monetaria en $;Vassili;Drowsfield;3345353652;Banco Agromercantil;BAM;Monetaria en Q;4290;2021-01-05 03:22:00
+Willie;Brahan;3601075148;Banco Promerica;Promerica;Monetaria en $;Colas;Feek;440057779;Banco Agromercantil;BAM;Monetaria en $;7634;2020-08-10 05:31:00
+Willie;Brahan;3601075148;Banco Promerica;Promerica;Monetaria en $;Cherry;Youtead;6393106875;Banco de desarrollo rural;BANRURAL;Monetaria en Q;362;2021-02-17 04:48:00
+Raff;Meah;3693967563;Banco G&T;G&T;Monetaria en $;Cully;Matyugin;7652775906;Banco de desarrollo rural;BANRURAL;Monetaria en Q;8793;2021-01-08 14:57:00
+Raff;Meah;3693967563;Banco G&T;G&T;Monetaria en $;Carmita;Hiscoke;8640571546;Banco Agromercantil;BAM;Monetaria en Q;4256;2021-03-10 01:22:00
+Raff;Meah;3693967563;Banco Industrial;BI;Ahorro;Tripp;Ingree;3888897025;Banco Agromercantil;BAM;Ahorro;6010;2021-02-23 23:55:00
+Raff;Meah;3693967563;Banco Industrial;BI;Ahorro;Arleta;Umbert;1805028979;Banco Industrial;BI;Monetaria en $;8175;2020-07-19 07:56:00
+Raff;Meah;3693967563;Banco Industrial;BI;Ahorro;Hali;Peebles;1909436437;Banco Promerica;Promerica;Ahorro;485;2020-04-26 21:17:00
+Reinwald;Raphael;3808552263;Banco Industrial;BI;Monetaria en Q;Javier;Theodore;1485345081;Banco Industrial;BI;Monetaria en $;9089;2021-01-29 02:15:00
+Reinwald;Raphael;3808552263;Banco Industrial;BI;Monetaria en Q;Morgun;Coots;6920115220;Banco Promerica;Promerica;Monetaria en $;3881;2021-02-17 13:18:00
+Reinwald;Raphael;3808552263;Banco Industrial;BI;Monetaria en Q;Vassili;Drowsfield;3345353652;Banco Agromercantil;BAM;Monetaria en Q;8118;2021-02-28 00:29:00
+Reinwald;Raphael;3808552263;Banco Industrial;BI;Monetaria en Q;Ike;Nickels;6290621491;Banco de desarrollo rural;BANRURAL;Monetaria en Q;8127;2020-09-15 09:30:00
+Tripp;Ingree;3888897025;Banco Agromercantil;BAM;Ahorro;Tina;De Beauchemp;6668839878;Banco Agromercantil;BAM;Ahorro;3849;2021-02-04 14:56:00
+Tripp;Ingree;3888897025;Banco Agromercantil;BAM;Ahorro;Hieronymus;Penn;3070506224;Banco de desarrollo rural;BANRURAL;Monetaria en $;5556;2020-07-14 04:16:00
+Tripp;Ingree;3888897025;Banco Agromercantil;BAM;Ahorro;Reinwald;Raphael;3808552263;Banco Industrial;BI;Monetaria en Q;3220;2020-08-14 17:32:00
+Tripp;Ingree;3888897025;Banco Agromercantil;BAM;Ahorro;Alfie;Castellaccio;2344960856;Banco de desarrollo rural;BANRURAL;Monetaria en Q;4761;2020-05-05 12:02:00
+Tripp;Ingree;3888897025;Banco Agromercantil;BAM;Ahorro;Janith;Metheringham;6172401947;Banco Industrial;BI;Monetaria en $;4929;2020-05-27 16:06:00
+Tripp;Ingree;3888897025;Banco Agromercantil;BAM;Ahorro;Deni;Tarn;6467582497;Banco Promerica;Promerica;Monetaria en $;3518;2021-04-15 11:31:00
+Maressa;Delgadillo;3899636643;Banco Industrial;BI;Ahorro;Raff;Meah;3693967563;Banco Industrial;BI;Ahorro;2343;2020-06-18 05:32:00
+Maressa;Delgadillo;3899636643;Banco Industrial;BI;Ahorro;Arlin;Bruckner;7819264039;Banco Promerica;Promerica;Ahorro;3462;2020-09-20 21:44:00
+Maressa;Delgadillo;3899636643;Banco Industrial;BI;Ahorro;Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;477;2020-12-28 23:50:00
+Arron;Dalziel;4113842388;Banco de desarrollo rural;BANRURAL;Monetaria en $;Leann;Buncher;7589827045;Banco Industrial;BI;Monetaria en $;7594;2021-03-01 09:20:00
+Arron;Dalziel;4113842388;Banco de desarrollo rural;BANRURAL;Monetaria en $;Jeanne;Ciottoi;3199681735;Banco Industrial;BI;Monetaria en Q;3125;2020-02-16 01:17:00
+Arron;Dalziel;4113842388;Banco G&T;G&T;Monetaria en Q;Vonny;Westall;2354138652;Banco G&T;G&T;Ahorro;5927;2020-02-28 14:06:00
+Arron;Dalziel;4113842388;Banco G&T;G&T;Monetaria en Q;Morgun;Coots;6920115220;Banco Promerica;Promerica;Monetaria en $;1251;2020-05-03 05:45:00
+Arron;Dalziel;4113842388;Banco G&T;G&T;Monetaria en Q;Colas;Feek;440057779;Banco G&T;G&T;Monetaria en $;663;2020-12-24 08:13:00
+Dale;Goslin;4243293546;Banco G&T;G&T;Ahorro;Abigale;Crann;1187255777;Banco Industrial;BI;Ahorro;7680;2020-10-09 07:41:00
+Dale;Goslin;4243293546;Banco G&T;G&T;Ahorro;Collie;Leatherland;3334586502;Banco Industrial;BI;Monetaria en Q;336;2020-07-11 08:14:00
+Dale;Goslin;4243293546;Banco G&T;G&T;Ahorro;Elnore;Foy;6154977174;Banco de desarrollo rural;BANRURAL;Ahorro;4424;2020-08-04 04:27:00
+Dale;Goslin;4243293546;Banco G&T;G&T;Ahorro;Margo;Aspinall;8574878405;Banco de desarrollo rural;BANRURAL;Monetaria en $;7542;2020-05-30 09:10:00
+Dale;Goslin;4243293546;Banco Promerica;Promerica;Ahorro;Dale;Goslin;4243293546;Banco G&T;G&T;Ahorro;7611;2020-05-19 14:00:00
+Dale;Goslin;4243293546;Banco Promerica;Promerica;Ahorro;Chrissy;Fells;1432225464;Banco G&T;G&T;Ahorro;6610;2020-04-28 03:37:00
+Donielle;Duckham;4348903484;Banco de desarrollo rural;BANRURAL;Monetaria en Q;Alfie;Castellaccio;2344960856;Banco de desarrollo rural;BANRURAL;Monetaria en Q;7091;2021-02-18 10:47:00
+Donielle;Duckham;4348903484;Banco de desarrollo rural;BANRURAL;Monetaria en Q;Raff;Meah;3693967563;Banco G&T;G&T;Monetaria en $;5474;2020-02-10 09:53:00
+Antonetta;Bowler;4380702766;Banco Agromercantil;BAM;Monetaria en $;Devin;Sheere;2286509069;Banco Agromercantil;BAM;Ahorro;8384;2021-01-08 15:59:00
+Antonetta;Bowler;4380702766;Banco Agromercantil;BAM;Monetaria en $;Koressa;Knowler;7737952055;Banco Promerica;Promerica;Ahorro;5169;2020-08-26 15:48:00
+Antonetta;Bowler;4380702766;Banco Agromercantil;BAM;Monetaria en $;Arron;Dalziel;4113842388;Banco de desarrollo rural;BANRURAL;Monetaria en $;4190;2020-10-10 23:49:00
+Antonetta;Bowler;4380702766;Banco Agromercantil;BAM;Monetaria en $;Ulla;Balloch;3278286464;Banco Promerica;Promerica;Monetaria en Q;6751;2020-08-15 05:58:00
+Antonetta;Bowler;4380702766;Banco Agromercantil;BAM;Monetaria en $;Hali;Peebles;1909436437;Banco Promerica;Promerica;Monetaria en $;912;2021-03-02 04:24:00
+Antonetta;Bowler;4380702766;Banco de desarrollo rural;BANRURAL;Ahorro;Henriette;Stag;5203620156;Banco de desarrollo rural;BANRURAL;Monetaria en $;7882;2020-06-21 01:07:00
+Antonetta;Bowler;4380702766;Banco de desarrollo rural;BANRURAL;Ahorro;Abigale;Crann;1187255777;Banco Agromercantil;BAM;Monetaria en $;5803;2020-01-22 05:00:00
+Antonetta;Bowler;4380702766;Banco de desarrollo rural;BANRURAL;Ahorro;Maressa;Delgadillo;3899636643;Banco Industrial;BI;Ahorro;6534;2021-03-04 06:06:00
+Sascha;Kennedy;4464029000;Banco G&T;G&T;Monetaria en $;Manuel;Gouldstone;2293547442;Banco G&T;G&T;Ahorro;762;2020-09-29 00:21:00
+Sascha;Kennedy;4464029000;Banco G&T;G&T;Monetaria en $;Hali;Peebles;1909436437;Banco Industrial;BI;Ahorro;1198;2021-03-19 03:50:00
+Sascha;Kennedy;4464029000;Banco Promerica;Promerica;Ahorro;Konstanze;Blood;7873382966;Banco Agromercantil;BAM;Monetaria en $;4844;2020-11-21 13:23:00
+Sascha;Kennedy;4464029000;Banco Promerica;Promerica;Ahorro;Colas;Feek;440057779;Banco Industrial;BI;Monetaria en $;9360;2020-07-31 18:37:00
+Sascha;Kennedy;4464029000;Banco Promerica;Promerica;Ahorro;Esme;Seifenmacher;7341877243;Banco Industrial;BI;Monetaria en $;6596;2020-03-15 02:49:00
+Sascha;Kennedy;4464029000;Banco Promerica;Promerica;Ahorro;Arlin;Bruckner;7819264039;Banco de desarrollo rural;BANRURAL;Monetaria en $;6963;2021-02-17 02:14:00
+Sascha;Kennedy;4464029000;Banco Promerica;Promerica;Ahorro;Kizzie;Pettman;6981272008;Banco Industrial;BI;Ahorro;2491;2020-05-07 09:20:00
+Puff;Huerta;4474118367;Banco de desarrollo rural;BANRURAL;Monetaria en Q;Koressa;Knowler;7737952055;Banco Industrial;BI;Monetaria en $;6088;2021-03-08 03:08:00
+Puff;Huerta;4474118367;Banco G&T;G&T;Monetaria en Q;Maressa;Delgadillo;3899636643;Banco Industrial;BI;Ahorro;8277;2020-04-14 19:07:00
+Puff;Huerta;4474118367;Banco G&T;G&T;Monetaria en Q;Collie;Leatherland;3334586502;Banco Promerica;Promerica;Ahorro;6597;2021-04-06 23:23:00
+Sax;Stephenson;4640351089;Banco Agromercantil;BAM;Ahorro;Jeanie;Badman;2320648240;Banco Agromercantil;BAM;Ahorro;4092;2020-10-24 19:31:00
+Sax;Stephenson;4640351089;Banco Agromercantil;BAM;Ahorro;Margo;Aspinall;8574878405;Banco Agromercantil;BAM;Ahorro;4613;2020-10-11 17:21:00
+Sax;Stephenson;4640351089;Banco Agromercantil;BAM;Ahorro;Ty;Kittow;1976810418;Banco G&T;G&T;Monetaria en $;1141;2020-04-13 05:35:00
+Sax;Stephenson;4640351089;Banco Agromercantil;BAM;Ahorro;Horatia;Brumpton;1653130695;Banco Agromercantil;BAM;Monetaria en $;4780;2021-03-09 16:28:00
+Sax;Stephenson;4640351089;Banco Agromercantil;BAM;Ahorro;Raff;Meah;3693967563;Banco Industrial;BI;Ahorro;8004;2020-08-11 19:25:00
+Sax;Stephenson;4640351089;Banco Agromercantil;BAM;Ahorro;Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;3391;2020-07-22 06:20:00
+Sax;Stephenson;4640351089;Banco Agromercantil;BAM;Ahorro;Sunny;Alvin;6456388384;Banco Promerica;Promerica;Monetaria en $;8020;2020-05-04 19:19:00
+Willy;Geraldo;4650277515;Banco de desarrollo rural;BANRURAL;Monetaria en $;Joelynn;De Gregoli;9835876975;Banco G&T;G&T;Monetaria en Q;2388;2020-12-22 21:42:00
+Willy;Geraldo;4650277515;Banco de desarrollo rural;BANRURAL;Monetaria en $;Carmita;Hiscoke;8640571546;Banco Agromercantil;BAM;Monetaria en Q;4392;2020-05-09 15:35:00
+Henriette;Stag;5203620156;Banco de desarrollo rural;BANRURAL;Monetaria en $;Arleta;Umbert;1805028979;Banco G&T;G&T;Monetaria en Q;9160;2020-11-16 04:06:00
+Henriette;Stag;5203620156;Banco de desarrollo rural;BANRURAL;Monetaria en $;Tina;De Beauchemp;6668839878;Banco Agromercantil;BAM;Ahorro;2507;2020-05-22 17:02:00
+Zack;Stainton - Skinn;5413394497;Banco Promerica;Promerica;Monetaria en Q;Daffy;Marages;2720935689;Banco Promerica;Promerica;Monetaria en Q;9993;2021-02-16 23:28:00
+Zack;Stainton - Skinn;5413394497;Banco Promerica;Promerica;Monetaria en Q;Willie;Brahan;3601075148;Banco G&T;G&T;Monetaria en $;143;2021-02-13 17:52:00
+Zack;Stainton - Skinn;5413394497;Banco Promerica;Promerica;Monetaria en Q;Collie;Leatherland;3334586502;Banco Promerica;Promerica;Ahorro;8444;2020-12-13 07:30:00
+Corliss;McCord;5563911438;Banco Agromercantil;BAM;Monetaria en $;Jolie;Tollfree;4105124471;Banco G&T;G&T;Monetaria en $;6767;2020-12-14 10:03:00
+Corliss;McCord;5563911438;Banco Agromercantil;BAM;Monetaria en $;Zack;Stainton - Skinn;5413394497;Banco Promerica;Promerica;Monetaria en Q;4224;2020-03-13 12:45:00
+Corliss;McCord;5563911438;Banco Agromercantil;BAM;Monetaria en $;Boote;Pina;208181717;Banco Industrial;BI;Monetaria en Q;1875;2020-01-16 06:16:00
+Corliss;McCord;5563911438;Banco Promerica;Promerica;Monetaria en $;Antonetta;Bowler;4380702766;Banco de desarrollo rural;BANRURAL;Ahorro;2174;2021-02-04 04:40:00
+Timmi;Hovie;5618537931;Banco Agromercantil;BAM;Ahorro;Abigale;Crann;1187255777;Banco Industrial;BI;Ahorro;769;2020-03-29 22:07:00
+Timmi;Hovie;5618537931;Banco Agromercantil;BAM;Ahorro;Giordano;Rimington;270162925;Banco de desarrollo rural;BANRURAL;Ahorro;9179;2020-06-19 19:05:00
+Timmi;Hovie;5618537931;Banco G&T;G&T;Ahorro;Gearard;Laye;9158606432;Banco de desarrollo rural;BANRURAL;Monetaria en $;3581;2020-11-10 18:41:00
+Timmi;Hovie;5618537931;Banco G&T;G&T;Ahorro;Stormy;Mathieu;1952883946;Banco G&T;G&T;Monetaria en $;3526;2020-09-06 07:37:00
+Locke;Kordas;5791637586;Banco G&T;G&T;Monetaria en Q;Cully;Matyugin;7652775906;Banco de desarrollo rural;BANRURAL;Monetaria en Q;4801;2020-07-17 20:50:00
+Locke;Kordas;5791637586;Banco G&T;G&T;Monetaria en Q;Ardys;Cave;3418211453;Banco Promerica;Promerica;Ahorro;8925;2020-06-11 06:21:00
+Locke;Kordas;5791637586;Banco G&T;G&T;Monetaria en Q;Neill;Esser;7964176803;Banco Industrial;BI;Monetaria en Q;7495;2020-01-17 21:39:00
+Locke;Kordas;5791637586;Banco Promerica;Promerica;Monetaria en $;Maggee;Shergold;6816494733;Banco Promerica;Promerica;Monetaria en Q;1058;2020-03-01 06:01:00
+Locke;Kordas;5791637586;Banco Promerica;Promerica;Monetaria en $;Collie;Leatherland;3334586502;Banco Industrial;BI;Monetaria en Q;5142;2020-04-06 16:58:00
+Locke;Kordas;5791637586;Banco Promerica;Promerica;Monetaria en $;Chrissy;Fells;1432225464;Banco Industrial;BI;Monetaria en $;6383;2021-04-11 16:54:00
+Locke;Kordas;5791637586;Banco Promerica;Promerica;Monetaria en $;Stormy;Mathieu;1952883946;Banco Agromercantil;BAM;Ahorro;318;2021-02-15 10:35:00
+Locke;Kordas;5791637586;Banco Promerica;Promerica;Monetaria en $;Arlin;Bruckner;7819264039;Banco de desarrollo rural;BANRURAL;Monetaria en $;1084;2020-06-04 00:20:00
+Locke;Kordas;5791637586;Banco Promerica;Promerica;Monetaria en $;Collie;Leatherland;3334586502;Banco G&T;G&T;Monetaria en Q;615;2020-08-21 23:06:00
+Paul;Fleming;5878519224;Banco Promerica;Promerica;Monetaria en $;Arleta;Umbert;1805028979;Banco G&T;G&T;Monetaria en Q;6916;2020-12-09 05:33:00
+Paul;Fleming;5878519224;Banco Promerica;Promerica;Monetaria en $;Bobbette;Dutton;930849132;Banco G&T;G&T;Monetaria en $;2365;2020-10-31 20:39:00
+Paul;Fleming;5878519224;Banco Promerica;Promerica;Monetaria en $;Collie;Leatherland;3334586502;Banco Industrial;BI;Monetaria en Q;4426;2020-04-19 14:11:00
+Gracia;Burchill;5981356200;Banco de desarrollo rural;BANRURAL;Monetaria en $;Phaidra;Thornthwaite;7422400781;Banco de desarrollo rural;BANRURAL;Monetaria en Q;3119;2020-10-08 13:53:00
+Gracia;Burchill;5981356200;Banco de desarrollo rural;BANRURAL;Monetaria en $;Sax;Stephenson;4640351089;Banco Agromercantil;BAM;Ahorro;800;2021-02-02 12:02:00
+Gracia;Burchill;5981356200;Banco Promerica;Promerica;Monetaria en $;Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;2781;2021-03-12 06:13:00
+Gracia;Burchill;5981356200;Banco Promerica;Promerica;Monetaria en $;Konstanze;Blood;7873382966;Banco Agromercantil;BAM;Monetaria en $;6518;2020-12-09 10:15:00
+Elnore;Foy;6154977174;Banco Agromercantil;BAM;Ahorro;Timmi;Hovie;5618537931;Banco G&T;G&T;Ahorro;4790;2021-03-02 05:59:00
+Elnore;Foy;6154977174;Banco Agromercantil;BAM;Ahorro;Deni;Tarn;6467582497;Banco Promerica;Promerica;Monetaria en $;5058;2020-01-03 00:03:00
+Elnore;Foy;6154977174;Banco Agromercantil;BAM;Ahorro;Phaidra;Thornthwaite;7422400781;Banco de desarrollo rural;BANRURAL;Monetaria en Q;4431;2020-01-16 18:23:00
+Janith;Metheringham;6172401947;Banco Agromercantil;BAM;Monetaria en $;Alfie;Castellaccio;2344960856;Banco Agromercantil;BAM;Monetaria en Q;9675;2020-07-27 21:50:00
+Janith;Metheringham;6172401947;Banco Agromercantil;BAM;Monetaria en $;Alfie;Castellaccio;2344960856;Banco Agromercantil;BAM;Monetaria en Q;2606;2020-03-15 16:16:00
+Janith;Metheringham;6172401947;Banco Agromercantil;BAM;Monetaria en $;Kit;Tottman;445543914;Banco G&T;G&T;Monetaria en $;1119;2020-11-28 12:49:00
+Janith;Metheringham;6172401947;Banco Industrial;BI;Monetaria en $;Maggee;Shergold;6816494733;Banco Promerica;Promerica;Ahorro;153;2020-10-04 14:38:00
+Ike;Nickels;6290621491;Banco de desarrollo rural;BANRURAL;Monetaria en Q;Willie;Brahan;3601075148;Banco Promerica;Promerica;Monetaria en $;9210;2020-12-23 16:13:00
+Ike;Nickels;6290621491;Banco de desarrollo rural;BANRURAL;Monetaria en Q;Jeanne;Ciottoi;3199681735;Banco Industrial;BI;Monetaria en Q;1240;2020-01-29 15:20:00
+Ike;Nickels;6290621491;Banco de desarrollo rural;BANRURAL;Monetaria en Q;Ty;Kittow;1976810418;Banco de desarrollo rural;BANRURAL;Ahorro;1160;2021-01-28 12:33:00
+Dahlia;Greiser;6310900986;Banco Industrial;BI;Monetaria en $;Chrissy;Fells;1432225464;Banco G&T;G&T;Ahorro;1311;2020-02-29 11:47:00
+Dahlia;Greiser;6310900986;Banco Industrial;BI;Monetaria en $;Colas;Feek;440057779;Banco Agromercantil;BAM;Monetaria en $;3484;2020-08-16 04:30:00
+Cherry;Youtead;6393106875;Banco de desarrollo rural;BANRURAL;Monetaria en Q;Hali;Peebles;1909436437;Banco de desarrollo rural;BANRURAL;Ahorro;8817;2021-01-25 15:05:00
+Cherry;Youtead;6393106875;Banco de desarrollo rural;BANRURAL;Monetaria en Q;Leann;Buncher;7589827045;Banco Industrial;BI;Monetaria en $;2862;2021-03-27 21:57:00
+Cherry;Youtead;6393106875;Banco G&T;G&T;Monetaria en Q;Koressa;Knowler;7737952055;Banco G&T;G&T;Monetaria en $;9423;2020-10-24 10:35:00
+Cherry;Youtead;6393106875;Banco G&T;G&T;Monetaria en Q;Nelia;Hathway;1962610551;Banco Industrial;BI;Monetaria en $;699;2020-11-24 14:51:00
+Cherry;Youtead;6393106875;Banco G&T;G&T;Monetaria en Q;Chrissy;Fells;1432225464;Banco Industrial;BI;Monetaria en $;4183;2021-01-03 20:45:00
+Cherry;Youtead;6393106875;Banco G&T;G&T;Monetaria en Q;Henriette;Stag;5203620156;Banco de desarrollo rural;BANRURAL;Monetaria en $;9401;2020-12-31 13:25:00
+Cherry;Youtead;6393106875;Banco Promerica;Promerica;Ahorro;Collie;Leatherland;3334586502;Banco G&T;G&T;Monetaria en Q;9718;2020-01-17 17:50:00
+Cherry;Youtead;6393106875;Banco Promerica;Promerica;Ahorro;Hieronymus;Penn;3070506224;Banco de desarrollo rural;BANRURAL;Monetaria en $;1328;2020-06-24 14:57:00
+Cherry;Youtead;6393106875;Banco Promerica;Promerica;Ahorro;Alfie;Castellaccio;2344960856;Banco Agromercantil;BAM;Monetaria en Q;9456;2020-03-22 23:16:00
+Cherry;Youtead;6393106875;Banco Promerica;Promerica;Ahorro;Henriette;Stag;5203620156;Banco de desarrollo rural;BANRURAL;Monetaria en $;5410;2020-10-09 23:36:00
+Cherry;Youtead;6393106875;Banco Promerica;Promerica;Ahorro;Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;507;2020-01-06 22:07:00
+Sunny;Alvin;6456388384;Banco Agromercantil;BAM;Monetaria en $;Inga;Cromleholme;3179095431;Banco Agromercantil;BAM;Ahorro;7836;2020-06-14 15:07:00
+Sunny;Alvin;6456388384;Banco Agromercantil;BAM;Monetaria en $;Esme;Seifenmacher;7341877243;Banco Promerica;Promerica;Monetaria en Q;680;2020-07-01 04:14:00
+Sunny;Alvin;6456388384;Banco Agromercantil;BAM;Monetaria en $;Willie;Brahan;3601075148;Banco Promerica;Promerica;Monetaria en $;8175;2021-03-11 10:01:00
+Sunny;Alvin;6456388384;Banco Agromercantil;BAM;Monetaria en $;Puff;Huerta;4474118367;Banco de desarrollo rural;BANRURAL;Monetaria en Q;1094;2020-08-01 20:10:00
+Sunny;Alvin;6456388384;Banco Promerica;Promerica;Monetaria en $;Arleta;Umbert;1805028979;Banco Industrial;BI;Monetaria en $;6787;2020-11-22 19:50:00
+Deni;Tarn;6467582497;Banco Agromercantil;BAM;Monetaria en Q;Tina;De Beauchemp;6668839878;Banco Industrial;BI;Ahorro;8120;2020-02-09 20:34:00
+Deni;Tarn;6467582497;Banco de desarrollo rural;BANRURAL;Monetaria en $;Giordano;Rimington;270162925;Banco Industrial;BI;Ahorro;4426;2020-02-25 09:08:00
+Deni;Tarn;6467582497;Banco de desarrollo rural;BANRURAL;Monetaria en $;Morgun;Coots;6920115220;Banco Promerica;Promerica;Monetaria en $;3200;2020-07-06 16:22:00
+Deni;Tarn;6467582497;Banco de desarrollo rural;BANRURAL;Monetaria en $;Hali;Peebles;1909436437;Banco de desarrollo rural;BANRURAL;Ahorro;1922;2021-03-27 00:51:00
+Deni;Tarn;6467582497;Banco de desarrollo rural;BANRURAL;Monetaria en $;Phaidra;Thornthwaite;7422400781;Banco de desarrollo rural;BANRURAL;Monetaria en Q;8570;2020-09-21 17:05:00
+Deni;Tarn;6467582497;Banco de desarrollo rural;BANRURAL;Monetaria en $;Giordano;Rimington;270162925;Banco G&T;G&T;Monetaria en $;6864;2020-11-13 20:51:00
+Deni;Tarn;6467582497;Banco G&T;G&T;Monetaria en $;Esme;Seifenmacher;7341877243;Banco Industrial;BI;Ahorro;3888;2020-05-03 10:35:00
+Deni;Tarn;6467582497;Banco G&T;G&T;Monetaria en Q;Hali;Peebles;1909436437;Banco de desarrollo rural;BANRURAL;Ahorro;7344;2020-04-06 01:40:00
+Deni;Tarn;6467582497;Banco G&T;G&T;Monetaria en Q;Daffy;Marages;2720935689;Banco Promerica;Promerica;Monetaria en Q;8263;2020-07-18 20:52:00
+Deni;Tarn;6467582497;Banco G&T;G&T;Monetaria en Q;Collie;Leatherland;3334586502;Banco Industrial;BI;Monetaria en Q;2878;2020-11-23 10:58:00
+Deni;Tarn;6467582497;Banco G&T;G&T;Monetaria en Q;Bobbette;Dutton;930849132;Banco G&T;G&T;Monetaria en $;2517;2020-03-11 12:03:00
+Deni;Tarn;6467582497;Banco G&T;G&T;Monetaria en Q;Ulla;Balloch;3278286464;Banco Promerica;Promerica;Monetaria en Q;7035;2021-02-17 17:52:00
+Deni;Tarn;6467582497;Banco Promerica;Promerica;Monetaria en $;Reinwald;Raphael;3808552263;Banco Industrial;BI;Monetaria en Q;313;2020-11-02 09:12:00
+Deni;Tarn;6467582497;Banco Promerica;Promerica;Monetaria en $;Dahlia;Greiser;6310900986;Banco Industrial;BI;Monetaria en $;6989;2020-08-02 01:56:00
+Deni;Tarn;6467582497;Banco Promerica;Promerica;Monetaria en $;Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;9087;2020-08-08 08:28:00
+Deni;Tarn;6467582497;Banco Promerica;Promerica;Monetaria en $;Alfie;Castellaccio;2344960856;Banco de desarrollo rural;BANRURAL;Monetaria en Q;1034;2020-11-09 07:38:00
+Deni;Tarn;6467582497;Banco Promerica;Promerica;Monetaria en $;Bobbette;Dutton;930849132;Banco Promerica;Promerica;Ahorro;3577;2021-01-20 07:03:00
+Deni;Tarn;6467582497;Banco Promerica;Promerica;Monetaria en $;Willie;Brahan;3601075148;Banco Promerica;Promerica;Monetaria en $;2585;2020-08-10 17:54:00
+Tina;De Beauchemp;6668839878;Banco Agromercantil;BAM;Ahorro;Phaidra;Thornthwaite;7422400781;Banco de desarrollo rural;BANRURAL;Monetaria en Q;6603;2021-02-03 00:38:00
+Tina;De Beauchemp;6668839878;Banco Agromercantil;BAM;Ahorro;Chrissy;Fells;1432225464;Banco Industrial;BI;Monetaria en $;2808;2020-04-14 00:13:00
+Tina;De Beauchemp;6668839878;Banco Agromercantil;BAM;Ahorro;Nelia;Hathway;1962610551;Banco Industrial;BI;Monetaria en $;6887;2020-01-23 20:06:00
+Tina;De Beauchemp;6668839878;Banco Agromercantil;BAM;Ahorro;Bobbette;Dutton;930849132;Banco G&T;G&T;Monetaria en $;9361;2020-04-14 14:09:00
+Tina;De Beauchemp;6668839878;Banco Agromercantil;BAM;Ahorro;Hali;Peebles;1909436437;Banco Industrial;BI;Monetaria en Q;2900;2020-05-18 14:19:00
+Tina;De Beauchemp;6668839878;Banco de desarrollo rural;BANRURAL;Monetaria en $;Cully;Matyugin;7652775906;Banco Promerica;Promerica;Monetaria en Q;6260;2020-06-26 10:42:00
+Tina;De Beauchemp;6668839878;Banco Industrial;BI;Ahorro;Koressa;Knowler;7737952055;Banco G&T;G&T;Monetaria en $;8012;2020-03-24 07:25:00
+Tina;De Beauchemp;6668839878;Banco Industrial;BI;Ahorro;Kizzie;Pettman;6981272008;Banco Promerica;Promerica;Ahorro;2643;2020-10-19 05:40:00
+Tina;De Beauchemp;6668839878;Banco Promerica;Promerica;Monetaria en $;Esme;Seifenmacher;7341877243;Banco Industrial;BI;Monetaria en $;8410;2020-02-01 06:09:00
+Tina;De Beauchemp;6668839878;Banco Promerica;Promerica;Monetaria en $;Elnore;Foy;6154977174;Banco Agromercantil;BAM;Ahorro;6618;2020-09-23 13:14:00
+Tina;De Beauchemp;6668839878;Banco Promerica;Promerica;Monetaria en $;Luelle;Barenskie;8068530312;Banco G&T;G&T;Monetaria en Q;9895;2020-03-24 09:43:00
+Tina;De Beauchemp;6668839878;Banco Promerica;Promerica;Monetaria en $;Abigale;Crann;1187255777;Banco Industrial;BI;Ahorro;9319;2020-07-17 02:35:00
+Tina;De Beauchemp;6668839878;Banco Promerica;Promerica;Monetaria en $;Arleta;Umbert;1805028979;Banco Industrial;BI;Monetaria en $;2559;2020-02-01 05:24:00
+Maggee;Shergold;6816494733;Banco Industrial;BI;Monetaria en Q;Alfie;Castellaccio;2344960856;Banco G&T;G&T;Monetaria en $;6782;2020-04-15 15:53:00
+Maggee;Shergold;6816494733;Banco Industrial;BI;Monetaria en Q;Vassili;Drowsfield;3345353652;Banco Promerica;Promerica;Ahorro;4033;2020-02-25 13:35:00
+Maggee;Shergold;6816494733;Banco Industrial;BI;Monetaria en Q;Reinwald;Raphael;3808552263;Banco Industrial;BI;Monetaria en Q;2190;2020-03-03 00:51:00
+Maggee;Shergold;6816494733;Banco Promerica;Promerica;Ahorro;Hali;Peebles;1909436437;Banco Promerica;Promerica;Ahorro;5862;2020-03-05 15:49:00
+Morgun;Coots;6920115220;Banco G&T;G&T;Monetaria en $;Ulla;Balloch;3278286464;Banco Promerica;Promerica;Monetaria en Q;4893;2020-03-18 07:41:00
+Morgun;Coots;6920115220;Banco G&T;G&T;Monetaria en $;Konstanze;Blood;7873382966;Banco Agromercantil;BAM;Monetaria en $;9596;2021-03-09 04:18:00
+Morgun;Coots;6920115220;Banco Industrial;BI;Monetaria en Q;Esme;Seifenmacher;7341877243;Banco Industrial;BI;Ahorro;1706;2021-02-28 09:53:00
+Morgun;Coots;6920115220;Banco Industrial;BI;Monetaria en Q;Deni;Tarn;6467582497;Banco G&T;G&T;Monetaria en Q;9753;2020-06-16 11:55:00
+Morgun;Coots;6920115220;Banco Promerica;Promerica;Monetaria en $;Raff;Meah;3693967563;Banco G&T;G&T;Monetaria en $;2053;2020-10-11 05:38:00
+Morgun;Coots;6920115220;Banco Promerica;Promerica;Monetaria en $;Nelia;Hathway;1962610551;Banco Promerica;Promerica;Monetaria en $;3900;2020-05-19 02:32:00
+Morgun;Coots;6920115220;Banco Promerica;Promerica;Monetaria en $;Dahlia;Greiser;6310900986;Banco Industrial;BI;Monetaria en $;8638;2020-09-16 15:32:00
+Morgun;Coots;6920115220;Banco Promerica;Promerica;Monetaria en $;Alexander;Amor;7361225500;Banco Promerica;Promerica;Ahorro;1957;2020-02-12 10:42:00
+Kizzie;Pettman;6981272008;Banco Industrial;BI;Ahorro;Morgun;Coots;6920115220;Banco G&T;G&T;Monetaria en $;6163;2020-08-24 20:38:00
+Kizzie;Pettman;6981272008;Banco Promerica;Promerica;Ahorro;Bobbette;Dutton;930849132;Banco Promerica;Promerica;Ahorro;2545;2020-08-16 18:41:00
+Kizzie;Pettman;6981272008;Banco Promerica;Promerica;Ahorro;Manuel;Gouldstone;2293547442;Banco Industrial;BI;Monetaria en $;9963;2021-02-24 18:10:00
+Kizzie;Pettman;6981272008;Banco Promerica;Promerica;Ahorro;Inga;Cromleholme;3179095431;Banco Promerica;Promerica;Monetaria en $;4032;2020-08-05 01:57:00
+Kizzie;Pettman;6981272008;Banco Promerica;Promerica;Ahorro;Manuel;Gouldstone;2293547442;Banco Industrial;BI;Monetaria en $;8816;2020-12-09 16:14:00
+Kizzie;Pettman;6981272008;Banco Promerica;Promerica;Ahorro;Thoma;Kempster;7725887806;Banco Promerica;Promerica;Monetaria en $;5460;2020-10-23 13:39:00
+Kizzie;Pettman;6981272008;Banco Promerica;Promerica;Ahorro;Hali;Peebles;1909436437;Banco Industrial;BI;Ahorro;1714;2021-01-05 15:54:00
+Kizzie;Pettman;6981272008;Banco Promerica;Promerica;Ahorro;Jarid;McEniry;7858016997;Banco de desarrollo rural;BANRURAL;Ahorro;583;2020-07-10 21:09:00
+Kizzie;Pettman;6981272008;Banco Promerica;Promerica;Ahorro;Devin;Sheere;2286509069;Banco Agromercantil;BAM;Ahorro;5224;2021-03-05 11:08:00
+Kizzie;Pettman;6981272008;Banco Promerica;Promerica;Ahorro;Joelynn;De Gregoli;9835876975;Banco Promerica;Promerica;Ahorro;9947;2020-02-06 16:26:00
+Kizzie;Pettman;6981272008;Banco Promerica;Promerica;Ahorro;Collie;Leatherland;3334586502;Banco Industrial;BI;Monetaria en Q;1732;2020-04-06 23:46:00
+Kizzie;Pettman;6981272008;Banco Promerica;Promerica;Ahorro;Kit;Tottman;445543914;Banco G&T;G&T;Monetaria en $;7270;2020-05-28 04:12:00
+Kizzie;Pettman;6981272008;Banco Promerica;Promerica;Ahorro;Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;4817;2021-04-12 06:33:00
+Kizzie;Pettman;6981272008;Banco Promerica;Promerica;Ahorro;Devin;Sheere;2286509069;Banco Industrial;BI;Monetaria en Q;8648;2020-08-30 12:12:00
+Burgess;Goudy;7154849568;Banco Promerica;Promerica;Ahorro;Henriette;Stag;5203620156;Banco de desarrollo rural;BANRURAL;Monetaria en $;4579;2020-05-25 02:22:00
+Burgess;Goudy;7154849568;Banco Promerica;Promerica;Ahorro;Arlin;Bruckner;7819264039;Banco de desarrollo rural;BANRURAL;Monetaria en $;5068;2020-12-06 22:54:00
+Burgess;Goudy;7154849568;Banco Promerica;Promerica;Ahorro;Koressa;Knowler;7737952055;Banco Industrial;BI;Monetaria en $;4208;2021-02-26 05:45:00
+Burgess;Goudy;7154849568;Banco Promerica;Promerica;Ahorro;Nelia;Hathway;1962610551;Banco Industrial;BI;Monetaria en Q;2079;2020-07-26 08:36:00
+Esme;Seifenmacher;7341877243;Banco Industrial;BI;Monetaria en $;Willie;Brahan;3601075148;Banco Promerica;Promerica;Monetaria en $;7028;2020-11-21 12:37:00
+Esme;Seifenmacher;7341877243;Banco Industrial;BI;Monetaria en $;Arleta;Umbert;1805028979;Banco Industrial;BI;Monetaria en $;7160;2021-01-15 07:58:00
+Esme;Seifenmacher;7341877243;Banco Industrial;BI;Ahorro;Jeanne;Ciottoi;3199681735;Banco Industrial;BI;Monetaria en Q;279;2020-09-19 13:16:00
+Esme;Seifenmacher;7341877243;Banco Industrial;BI;Ahorro;Arron;Dalziel;4113842388;Banco de desarrollo rural;BANRURAL;Monetaria en $;5375;2020-01-07 22:50:00
+Esme;Seifenmacher;7341877243;Banco Promerica;Promerica;Monetaria en Q;Gearard;Laye;9158606432;Banco de desarrollo rural;BANRURAL;Monetaria en $;3953;2020-03-29 06:39:00
+Esme;Seifenmacher;7341877243;Banco Promerica;Promerica;Monetaria en Q;Joelynn;De Gregoli;9835876975;Banco Promerica;Promerica;Ahorro;3391;2021-04-12 04:59:00
+Esme;Seifenmacher;7341877243;Banco Promerica;Promerica;Monetaria en Q;Willie;Brahan;3601075148;Banco G&T;G&T;Monetaria en $;9273;2020-10-24 15:29:00
+Alexander;Amor;7361225500;Banco Promerica;Promerica;Ahorro;Deni;Tarn;6467582497;Banco de desarrollo rural;BANRURAL;Monetaria en $;9703;2020-05-09 19:47:00
+Alexander;Amor;7361225500;Banco Promerica;Promerica;Ahorro;Horatia;Brumpton;1653130695;Banco G&T;G&T;Monetaria en Q;4550;2021-01-28 18:26:00
+Alexander;Amor;7361225500;Banco Promerica;Promerica;Ahorro;Gracia;Burchill;5981356200;Banco de desarrollo rural;BANRURAL;Monetaria en $;7075;2020-03-13 14:48:00
+Alexander;Amor;7361225500;Banco Promerica;Promerica;Ahorro;Giordano;Rimington;270162925;Banco de desarrollo rural;BANRURAL;Ahorro;8540;2020-09-18 15:08:00
+Alexander;Amor;7361225500;Banco Promerica;Promerica;Ahorro;Nelia;Hathway;1962610551;Banco G&T;G&T;Monetaria en Q;8030;2020-12-15 17:00:00
+Alexander;Amor;7361225500;Banco Promerica;Promerica;Ahorro;Koressa;Knowler;7737952055;Banco Promerica;Promerica;Ahorro;3158;2021-01-01 20:57:00
+Phaidra;Thornthwaite;7422400781;Banco Agromercantil;BAM;Monetaria en Q;Phaidra;Thornthwaite;7422400781;Banco de desarrollo rural;BANRURAL;Monetaria en Q;2057;2020-02-07 03:20:00
+Phaidra;Thornthwaite;7422400781;Banco Agromercantil;BAM;Monetaria en Q;Alfie;Castellaccio;2344960856;Banco G&T;G&T;Monetaria en $;9995;2020-07-11 10:59:00
+Phaidra;Thornthwaite;7422400781;Banco de desarrollo rural;BANRURAL;Monetaria en Q;Maggee;Shergold;6816494733;Banco Industrial;BI;Monetaria en Q;7847;2021-04-03 07:12:00
+Phaidra;Thornthwaite;7422400781;Banco de desarrollo rural;BANRURAL;Monetaria en Q;Joelynn;De Gregoli;9835876975;Banco Industrial;BI;Monetaria en Q;6469;2020-09-18 22:07:00
+Phaidra;Thornthwaite;7422400781;Banco de desarrollo rural;BANRURAL;Monetaria en Q;Nelia;Hathway;1962610551;Banco Industrial;BI;Monetaria en $;5582;2020-11-28 16:04:00
+Phaidra;Thornthwaite;7422400781;Banco de desarrollo rural;BANRURAL;Monetaria en Q;Hali;Peebles;1909436437;Banco de desarrollo rural;BANRURAL;Ahorro;7402;2020-04-24 22:26:00
+Phaidra;Thornthwaite;7422400781;Banco de desarrollo rural;BANRURAL;Monetaria en Q;Boote;Pina;208181717;Banco Industrial;BI;Monetaria en Q;3104;2020-03-17 20:44:00
+Phaidra;Thornthwaite;7422400781;Banco de desarrollo rural;BANRURAL;Monetaria en Q;Timmi;Hovie;5618537931;Banco Agromercantil;BAM;Ahorro;4307;2020-03-25 06:22:00
+Leann;Buncher;7589827045;Banco Industrial;BI;Monetaria en $;Maggee;Shergold;6816494733;Banco Industrial;BI;Monetaria en Q;8192;2020-02-19 06:47:00
+Leann;Buncher;7589827045;Banco Industrial;BI;Monetaria en $;Gracia;Burchill;5981356200;Banco de desarrollo rural;BANRURAL;Monetaria en $;2896;2020-10-01 20:50:00
+Leann;Buncher;7589827045;Banco Industrial;BI;Monetaria en $;Alfie;Castellaccio;2344960856;Banco de desarrollo rural;BANRURAL;Monetaria en Q;6470;2020-10-29 21:17:00
+Leann;Buncher;7589827045;Banco Industrial;BI;Monetaria en $;Abigale;Crann;1187255777;Banco Industrial;BI;Ahorro;1350;2020-11-02 23:19:00
+Cully;Matyugin;7652775906;Banco de desarrollo rural;BANRURAL;Monetaria en Q;Jeanie;Badman;2320648240;Banco Agromercantil;BAM;Ahorro;9426;2020-07-30 18:48:00
+Cully;Matyugin;7652775906;Banco Industrial;BI;Monetaria en Q;Sascha;Kennedy;4464029000;Banco G&T;G&T;Monetaria en $;3301;2020-07-28 12:50:00
+Cully;Matyugin;7652775906;Banco Industrial;BI;Monetaria en Q;Cully;Matyugin;7652775906;Banco Promerica;Promerica;Monetaria en Q;7188;2021-04-01 17:20:00
+Cully;Matyugin;7652775906;Banco Promerica;Promerica;Monetaria en Q;Maggee;Shergold;6816494733;Banco Promerica;Promerica;Ahorro;2688;2020-03-29 17:59:00
+Cully;Matyugin;7652775906;Banco Promerica;Promerica;Monetaria en Q;Lauralee;Britnell;8712012858;Banco Industrial;BI;Monetaria en Q;8950;2020-06-25 11:41:00
+Cully;Matyugin;7652775906;Banco Promerica;Promerica;Monetaria en Q;Chrissy;Fells;1432225464;Banco Industrial;BI;Monetaria en $;4079;2020-01-11 15:55:00
+Thoma;Kempster;7725887806;Banco Industrial;BI;Monetaria en $;Maressa;Delgadillo;3899636643;Banco Industrial;BI;Ahorro;5120;2020-01-08 05:22:00
+Thoma;Kempster;7725887806;Banco Industrial;BI;Monetaria en $;Jolie;Tollfree;4105124471;Banco G&T;G&T;Monetaria en $;4531;2020-11-28 16:16:00
+Thoma;Kempster;7725887806;Banco Industrial;BI;Monetaria en $;Bobbette;Dutton;930849132;Banco Industrial;BI;Ahorro;2750;2020-03-30 15:47:00
+Thoma;Kempster;7725887806;Banco Industrial;BI;Monetaria en $;Janith;Metheringham;6172401947;Banco Industrial;BI;Monetaria en $;7301;2020-05-24 18:58:00
+Thoma;Kempster;7725887806;Banco Industrial;BI;Monetaria en $;Koressa;Knowler;7737952055;Banco Promerica;Promerica;Ahorro;1766;2021-03-19 23:04:00
+Thoma;Kempster;7725887806;Banco Industrial;BI;Monetaria en $;Devin;Sheere;2286509069;Banco Agromercantil;BAM;Ahorro;830;2021-01-06 10:12:00
+Thoma;Kempster;7725887806;Banco Promerica;Promerica;Monetaria en $;Janith;Metheringham;6172401947;Banco Industrial;BI;Monetaria en $;5061;2021-03-10 06:39:00
+Koressa;Knowler;7737952055;Banco de desarrollo rural;BANRURAL;Monetaria en $;Tripp;Ingree;3888897025;Banco Agromercantil;BAM;Ahorro;6169;2020-12-18 00:05:00
+Koressa;Knowler;7737952055;Banco de desarrollo rural;BANRURAL;Monetaria en $;Javier;Theodore;1485345081;Banco Industrial;BI;Monetaria en $;684;2020-02-26 12:36:00
+Koressa;Knowler;7737952055;Banco de desarrollo rural;BANRURAL;Monetaria en $;Neill;Esser;7964176803;Banco Industrial;BI;Monetaria en Q;2215;2020-01-09 06:40:00
+Koressa;Knowler;7737952055;Banco G&T;G&T;Monetaria en $;Tripp;Ingree;3888897025;Banco Agromercantil;BAM;Ahorro;1959;2020-07-01 06:08:00
+Koressa;Knowler;7737952055;Banco G&T;G&T;Monetaria en $;Daffy;Marages;2720935689;Banco Promerica;Promerica;Monetaria en Q;1600;2020-01-27 07:04:00
+Koressa;Knowler;7737952055;Banco Industrial;BI;Monetaria en $;Reinwald;Raphael;3808552263;Banco Industrial;BI;Monetaria en Q;7452;2021-01-20 09:01:00
+Koressa;Knowler;7737952055;Banco Industrial;BI;Monetaria en $;Stormy;Mathieu;1952883946;Banco G&T;G&T;Monetaria en $;7922;2020-04-02 17:27:00
+Koressa;Knowler;7737952055;Banco Industrial;BI;Monetaria en $;Jeanie;Badman;2320648240;Banco G&T;G&T;Monetaria en Q;9668;2020-08-22 09:45:00
+Koressa;Knowler;7737952055;Banco Promerica;Promerica;Ahorro;Puff;Huerta;4474118367;Banco G&T;G&T;Monetaria en Q;6568;2021-02-19 16:18:00
+Koressa;Knowler;7737952055;Banco Promerica;Promerica;Ahorro;Daffy;Marages;2720935689;Banco G&T;G&T;Monetaria en Q;292;2020-06-16 20:30:00
+Arlin;Bruckner;7819264039;Banco de desarrollo rural;BANRURAL;Monetaria en Q;Elnore;Foy;6154977174;Banco Agromercantil;BAM;Ahorro;9094;2020-01-10 06:38:00
+Arlin;Bruckner;7819264039;Banco de desarrollo rural;BANRURAL;Monetaria en Q;Bobbette;Dutton;930849132;Banco Promerica;Promerica;Ahorro;1194;2020-04-04 21:15:00
+Arlin;Bruckner;7819264039;Banco Promerica;Promerica;Monetaria en Q;Hali;Peebles;1909436437;Banco Promerica;Promerica;Monetaria en $;874;2020-01-07 20:22:00
+Arlin;Bruckner;7819264039;Banco Promerica;Promerica;Monetaria en Q;Luelle;Barenskie;8068530312;Banco G&T;G&T;Monetaria en Q;5410;2020-03-04 16:19:00
+Arlin;Bruckner;7819264039;Banco Promerica;Promerica;Ahorro;Ulla;Balloch;3278286464;Banco Promerica;Promerica;Monetaria en Q;4126;2020-02-10 10:58:00
+Arlin;Bruckner;7819264039;Banco Promerica;Promerica;Monetaria en Q;Lauralee;Britnell;8712012858;Banco Industrial;BI;Monetaria en Q;7960;2020-06-13 04:43:00
+Arlin;Bruckner;7819264039;Banco Promerica;Promerica;Monetaria en Q;Janith;Metheringham;6172401947;Banco Industrial;BI;Monetaria en $;9601;2020-10-29 23:07:00
+Arlin;Bruckner;7819264039;Banco Promerica;Promerica;Ahorro;Neill;Esser;7964176803;Banco Industrial;BI;Monetaria en Q;6287;2020-01-24 00:26:00
+Jarid;McEniry;7858016997;Banco de desarrollo rural;BANRURAL;Ahorro;Ddene;Tant;2293083373;Banco de desarrollo rural;BANRURAL;Monetaria en $;7305;2020-04-02 12:24:00
+Konstanze;Blood;7873382966;Banco Industrial;BI;Ahorro;Cherry;Youtead;6393106875;Banco G&T;G&T;Monetaria en Q;6355;2021-03-28 18:32:00
+Konstanze;Blood;7873382966;Banco Industrial;BI;Ahorro;Maggee;Shergold;6816494733;Banco Industrial;BI;Monetaria en Q;1954;2021-01-21 11:31:00
+Konstanze;Blood;7873382966;Banco Industrial;BI;Ahorro;Giordano;Rimington;270162925;Banco G&T;G&T;Monetaria en $;7648;2020-09-22 21:07:00
+Konstanze;Blood;7873382966;Banco Industrial;BI;Ahorro;Tina;De Beauchemp;6668839878;Banco Agromercantil;BAM;Ahorro;6619;2020-04-22 05:55:00
+Konstanze;Blood;7873382966;Banco Promerica;Promerica;Monetaria en Q;Maggee;Shergold;6816494733;Banco Industrial;BI;Monetaria en Q;5302;2020-05-30 00:36:00
+Konstanze;Blood;7873382966;Banco Promerica;Promerica;Monetaria en Q;Tina;De Beauchemp;6668839878;Banco Agromercantil;BAM;Ahorro;2525;2020-08-12 15:39:00
+Konstanze;Blood;7873382966;Banco Promerica;Promerica;Monetaria en Q;Sunny;Alvin;6456388384;Banco Promerica;Promerica;Monetaria en $;8267;2020-04-02 10:16:00
+Konstanze;Blood;7873382966;Banco Promerica;Promerica;Monetaria en Q;Reinwald;Raphael;3808552263;Banco Industrial;BI;Monetaria en Q;6621;2020-01-23 01:24:00
+Konstanze;Blood;7873382966;Banco Promerica;Promerica;Monetaria en Q;Arleta;Umbert;1805028979;Banco Promerica;Promerica;Monetaria en Q;9488;2021-03-26 08:17:00
+Neill;Esser;7964176803;Banco Industrial;BI;Monetaria en Q;Arlin;Bruckner;7819264039;Banco de desarrollo rural;BANRURAL;Monetaria en Q;6746;2020-04-02 09:45:00
+Neill;Esser;7964176803;Banco Industrial;BI;Monetaria en $;Hali;Peebles;1909436437;Banco de desarrollo rural;BANRURAL;Ahorro;597;2020-03-22 15:17:00
+Neill;Esser;7964176803;Banco Industrial;BI;Monetaria en Q;Nelia;Hathway;1962610551;Banco Industrial;BI;Monetaria en $;2366;2020-02-19 23:57:00
+Neill;Esser;7964176803;Banco Industrial;BI;Monetaria en $;Elnore;Foy;6154977174;Banco Agromercantil;BAM;Ahorro;3999;2021-01-22 08:58:00
+Luelle;Barenskie;8068530312;Banco G&T;G&T;Monetaria en Q;Alexander;Amor;7361225500;Banco Promerica;Promerica;Ahorro;2232;2021-03-26 04:24:00
+Luelle;Barenskie;8068530312;Banco G&T;G&T;Monetaria en Q;Alexander;Amor;7361225500;Banco Promerica;Promerica;Ahorro;7092;2020-01-12 04:21:00
+Renard;Pelchat;8373980261;Banco Promerica;Promerica;Ahorro;Thoma;Kempster;7725887806;Banco Promerica;Promerica;Monetaria en $;170;2020-05-06 21:11:00
+Renard;Pelchat;8373980261;Banco Promerica;Promerica;Ahorro;Alfie;Castellaccio;2344960856;Banco de desarrollo rural;BANRURAL;Monetaria en $;5463;2021-02-09 01:40:00
+Renard;Pelchat;8373980261;Banco Promerica;Promerica;Ahorro;Ulla;Balloch;3278286464;Banco G&T;G&T;Monetaria en $;6461;2021-02-18 02:09:00
+Renard;Pelchat;8373980261;Banco Promerica;Promerica;Ahorro;Ddene;Tant;2293083373;Banco de desarrollo rural;BANRURAL;Monetaria en $;242;2021-02-25 18:41:00
+Margo;Aspinall;8574878405;Banco de desarrollo rural;BANRURAL;Monetaria en $;Tina;De Beauchemp;6668839878;Banco de desarrollo rural;BANRURAL;Monetaria en $;5819;2020-11-19 23:08:00
+Margo;Aspinall;8574878405;Banco de desarrollo rural;BANRURAL;Monetaria en $;Alfie;Castellaccio;2344960856;Banco Agromercantil;BAM;Monetaria en Q;3567;2020-01-02 05:56:00
+Margo;Aspinall;8574878405;Banco de desarrollo rural;BANRURAL;Monetaria en $;Vassili;Drowsfield;3345353652;Banco G&T;G&T;Monetaria en $;9766;2020-08-10 15:23:00
+Margo;Aspinall;8574878405;Banco Industrial;BI;Monetaria en $;Sascha;Kennedy;4464029000;Banco G&T;G&T;Monetaria en $;6608;2020-10-21 09:52:00
+Margo;Aspinall;8574878405;Banco Industrial;BI;Monetaria en $;Jeanne;Ciottoi;3199681735;Banco de desarrollo rural;BANRURAL;Monetaria en $;4733;2020-02-03 03:39:00
+Carmita;Hiscoke;8640571546;Banco Agromercantil;BAM;Monetaria en Q;Riva;Gaven;2897073799;Banco G&T;G&T;Monetaria en Q;3961;2020-05-10 19:27:00
+Carmita;Hiscoke;8640571546;Banco Agromercantil;BAM;Monetaria en Q;Alexander;Amor;7361225500;Banco Promerica;Promerica;Ahorro;8493;2020-08-01 10:48:00
+Carmita;Hiscoke;8640571546;Banco Agromercantil;BAM;Monetaria en Q;Esme;Seifenmacher;7341877243;Banco Promerica;Promerica;Monetaria en Q;3171;2020-07-14 09:56:00
+Lauralee;Britnell;8712012858;Banco Industrial;BI;Monetaria en Q;Abigale;Crann;1187255777;Banco Industrial;BI;Ahorro;9305;2021-04-08 15:45:00
+Lauralee;Britnell;8712012858;Banco Industrial;BI;Monetaria en Q;Henriette;Stag;5203620156;Banco de desarrollo rural;BANRURAL;Monetaria en $;5762;2020-12-08 05:28:00
+Gearard;Laye;9158606432;Banco de desarrollo rural;BANRURAL;Monetaria en $;Konstanze;Blood;7873382966;Banco Agromercantil;BAM;Monetaria en $;2523;2020-08-30 12:56:00
+Gearard;Laye;9158606432;Banco de desarrollo rural;BANRURAL;Monetaria en $;Horatia;Brumpton;1653130695;Banco G&T;G&T;Ahorro;6483;2020-02-04 23:52:00
+Leonid;Berrey;9488599294;Banco Promerica;Promerica;Monetaria en $;Carmita;Hiscoke;8640571546;Banco Agromercantil;BAM;Monetaria en Q;4725;2020-11-07 18:30:00
+Cherise;Pluvier;9622621546;Banco Industrial;BI;Ahorro;Deni;Tarn;6467582497;Banco Agromercantil;BAM;Monetaria en Q;5451;2020-08-08 15:41:00
+Cherise;Pluvier;9622621546;Banco Industrial;BI;Ahorro;Janith;Metheringham;6172401947;Banco Industrial;BI;Monetaria en $;5710;2020-12-22 04:34:00
+Cherise;Pluvier;9622621546;Banco Industrial;BI;Ahorro;Ty;Kittow;1976810418;Banco G&T;G&T;Monetaria en $;8364;2020-07-02 10:52:00
+Joelynn;De Gregoli;9835876975;Banco G&T;G&T;Monetaria en Q;Phaidra;Thornthwaite;7422400781;Banco de desarrollo rural;BANRURAL;Monetaria en Q;8915;2020-05-05 00:48:00
+Joelynn;De Gregoli;9835876975;Banco Industrial;BI;Monetaria en Q;Vassili;Drowsfield;3345353652;Banco G&T;G&T;Monetaria en $;6522;2020-11-15 18:07:00
+Joelynn;De Gregoli;9835876975;Banco Industrial;BI;Monetaria en Q;Joelynn;De Gregoli;9835876975;Banco G&T;G&T;Monetaria en Q;7821;2020-02-02 00:33:00
+Joelynn;De Gregoli;9835876975;Banco Industrial;BI;Monetaria en Q;Abigale;Crann;1187255777;Banco Agromercantil;BAM;Monetaria en $;3271;2020-11-23 13:10:00
+Joelynn;De Gregoli;9835876975;Banco Promerica;Promerica;Ahorro;Kizzie;Pettman;6981272008;Banco Industrial;BI;Ahorro;6270;2020-12-25 12:27:00
+Joelynn;De Gregoli;9835876975;Banco Promerica;Promerica;Ahorro;Konstanze;Blood;7873382966;Banco Agromercantil;BAM;Monetaria en $;784;2020-04-09 19:40:00
+Joelynn;De Gregoli;9835876975;Banco Promerica;Promerica;Ahorro;Koressa;Knowler;7737952055;Banco de desarrollo rural;BANRURAL;Monetaria en $;5465;2020-01-11 13:07:00
+Joelynn;De Gregoli;9835876975;Banco Promerica;Promerica;Ahorro;Dale;Goslin;4243293546;Banco Promerica;Promerica;Ahorro;8301;2020-10-31 04:35:00
+Joelynn;De Gregoli;9835876975;Banco Promerica;Promerica;Ahorro;Sascha;Kennedy;4464029000;Banco Promerica;Promerica;Ahorro;1604;2020-09-26 15:57:00
