@@ -54,7 +54,7 @@ app.get('/listaCreditosInstitucion', function (req, res) {
 
 app.get('/totalDebitosInstitucion', function (req, res) {
     console.log(req.query.institucion)
-    client.execute(`select blobAsText(textAsBlob('Debito')) as Tipo, SUM(MONTO)
+    client.execute(`select blobAsText(textAsBlob('Debito')) as Tipo, SUM(MONTO) as Total
     from operaciones_institucion_debito where InstitucionBancaria1 =  ? order by fecha desc`, [req.query.institucion]).then(
         result => {
             res.json(result.rows);
@@ -64,7 +64,7 @@ app.get('/totalDebitosInstitucion', function (req, res) {
 
 app.get('/totalCreditosInstitucion', function (req, res) {
     console.log(req.query.institucion)
-    client.execute(`select blobAsText(textAsBlob('Credito')) as Tipo, SUM(MONTO)
+    client.execute(`select blobAsText(textAsBlob('Credito')) as Tipo, SUM(MONTO) as Total
     from operaciones_institucion_credito where InstitucionBancaria2 = ? order by fecha desc`, [req.query.institucion]).then(
         result => {
             res.json(result.rows);
@@ -75,6 +75,14 @@ app.get('/totalCreditosInstitucion', function (req, res) {
 
 app.get('/cuentahabientes', function (req, res) {
     client.execute('SELECT * FROM cuentahabiente').then(
+        result => {
+            res.json(result.rows);
+        }
+    );
+});
+
+app.get('/cuentahabiente', function (req, res) {
+    client.execute(`SELECT * FROM cuentahabiente where CUI = ${req.query.cui}`).then(
         result => {
             res.json(result.rows);
         }
@@ -92,7 +100,7 @@ app.get('/institucionesBancarias', function (req, res) {
 
 app.get('/debitoCuentaHabiente', function (req, res) {
     console.log(req.query.institucion)
-    client.execute(`select blobAsText(textAsBlob('Debito')) ,Nombre1,Apellido1,CUI_1,Email1,FechaRegistro1,Genero1,InstitucionBancaria1,
+    client.execute(`select blobAsText(textAsBlob('Debito')) as Tipo ,Nombre1,Apellido1,CUI_1,Email1,FechaRegistro1,Genero1,InstitucionBancaria1,
     Abreviatura1,TipoCuenta1,SaldoInicial1,Nombre2,Apellido2,CUI_2,Email2,
     FechaRegistro2,Genero2,InstitucionBancaria2,Abreviatura2,TipoCuenta2,SaldoInicial2,Monto,Fecha 
     from operaciones_cuentahabiente_debito where CUI_1 = '${req.query.cui}' and fecha >= '${req.query.fecha1}' and fecha <= '${req.query.fecha2}'`).then(
@@ -104,7 +112,7 @@ app.get('/debitoCuentaHabiente', function (req, res) {
 
 app.get('/creditoCuentaHabiente', function (req, res) {
     console.log(req.query.institucion)
-    client.execute(`select blobAsText(textAsBlob('Credito')) ,Nombre1,Apellido1,CUI_1,Email1,FechaRegistro1,Genero1,InstitucionBancaria1,
+    client.execute(`select blobAsText(textAsBlob('Credito')) as Tipo,Nombre1,Apellido1,CUI_1,Email1,FechaRegistro1,Genero1,InstitucionBancaria1,
     Abreviatura1,TipoCuenta1,SaldoInicial1,Nombre2,Apellido2,CUI_2,Email2,
     FechaRegistro2,Genero2,InstitucionBancaria2,Abreviatura2,TipoCuenta2,SaldoInicial2,Monto,Fecha 
     from operaciones_cuentahabiente_credito where CUI_2  = '${req.query.cui}' and fecha >= '${req.query.fecha1}' and fecha <= '${req.query.fecha2}'`).then(
@@ -121,66 +129,54 @@ app.post('/registrarOperacionCuentahabienteDebito', function (req, res) {
 
     // Guardar Debito de el cuentahabiente
 
-    client.execute(`INSERT INTO operaciones_cuentahabiente_debito(Nombre1,Apellido1,CUI_1,Email1,FechaRegistro1,Genero1,
-        InstitucionBancaria1,Abreviatura1,TipoCuenta1,SaldoInicial1,Nombre2,Apellido2,CUI_2,Email2,FechaRegistro2,Genero2,InstitucionBancaria2,
-        Abreviatura2,TipoCuenta2,SaldoInicial2,Monto,Fecha) VALUES('${Nombre1}','${Apellido1}','${CUI_1}','${Email1}','${FechaRegistro1}','${Genero1}','${InstitucionBancaria1}',
-        '${Abreviatura1}','${TipoCuenta1}',${SaldoInicial1},'${Nombre2}','${Apellido2}','${CUI_2}','${Email2}','${FechaRegistro2}',
-        '${Genero2}','${InstitucionBancaria2}','${Abreviatura2}','${TipoCuenta2}',${SaldoInicial2},${Monto},dateof(now()))`).then(
-        result => {
-            console.log('OK Guardar Debito de el cuentahabiente')
-            this.total++;
-        }, err => {
-            res.json(err);
-            return;
+    const queries = [
+        {
+            query: `INSERT INTO operaciones_cuentahabiente_debito(Nombre1,Apellido1,CUI_1,Email1,FechaRegistro1,Genero1,
+            InstitucionBancaria1,Abreviatura1,TipoCuenta1,SaldoInicial1,Nombre2,Apellido2,CUI_2,Email2,FechaRegistro2,Genero2,InstitucionBancaria2,
+            Abreviatura2,TipoCuenta2,SaldoInicial2,Monto,Fecha) VALUES('${Nombre1}','${Apellido1}','${CUI_1}','${Email1}','${FechaRegistro1}','${Genero1}','${InstitucionBancaria1}',
+            '${Abreviatura1}','${TipoCuenta1}',${SaldoInicial1},'${Nombre2}','${Apellido2}','${CUI_2}','${Email2}','${FechaRegistro2}',
+            '${Genero2}','${InstitucionBancaria2}','${Abreviatura2}','${TipoCuenta2}',${SaldoInicial2},${Monto},dateof(now()))`, params: []
+        },
+        {
+            query: `INSERT INTO operaciones_cuentahabiente_credito(Nombre1,Apellido1,CUI_1,Email1,FechaRegistro1,Genero1,
+                InstitucionBancaria1,Abreviatura1,TipoCuenta1,SaldoInicial1,Nombre2,Apellido2,CUI_2,Email2,FechaRegistro2,Genero2,InstitucionBancaria2,
+                Abreviatura2,TipoCuenta2,SaldoInicial2,Monto,Fecha) VALUES('${Nombre1}','${Apellido1}','${CUI_1}','${Email1}','${FechaRegistro1}','${Genero1}','${InstitucionBancaria1}',
+                '${Abreviatura1}','${TipoCuenta1}',${SaldoInicial1},'${Nombre2}','${Apellido2}','${CUI_2}','${Email2}','${FechaRegistro2}',
+                '${Genero2}','${InstitucionBancaria2}','${Abreviatura2}','${TipoCuenta2}',${SaldoInicial2},${Monto},dateof(now()))`, params: []
+        },
+        {
+            query: `INSERT INTO operaciones_institucion_credito(Nombre1,Apellido1,CUI_1,InstitucionBancaria1,Abreviatura1,TipoCuenta1,Nombre2,
+                Apellido2,CUI_2,InstitucionBancaria2,Abreviatura2,TipoCuenta2,Monto,Fecha) VALUES('${Nombre1}','${Apellido1}','${CUI_1}',
+                '${InstitucionBancaria1}','${Abreviatura1}','${TipoCuenta1}','${Nombre2}','${Apellido2}','${CUI_2}','${InstitucionBancaria2}'
+                ,'${Abreviatura2}','${TipoCuenta2}',${Monto},dateof(now()))`, params: []
+        },
+        {
+            query: `INSERT INTO operaciones_institucion_debito(Nombre1,Apellido1,CUI_1,InstitucionBancaria1,Abreviatura1,TipoCuenta1,Nombre2,
+                Apellido2,CUI_2,InstitucionBancaria2,Abreviatura2,TipoCuenta2,Monto,Fecha) VALUES('${Nombre1}','${Apellido1}','${CUI_1}',
+                '${InstitucionBancaria1}','${Abreviatura1}','${TipoCuenta1}','${Nombre2}','${Apellido2}','${CUI_2}','${InstitucionBancaria2}'
+                ,'${Abreviatura2}','${TipoCuenta2}',${Monto},dateof(now()))`, params: []
+        },
+        {
+            query: `INSERT INTO cuentahabiente(Nombre,Apellido,CUI,Email,FechaRegistro,Genero,InstitucionBancaria,TipoCuenta,SaldoInicial) 
+            VALUES('${Nombre1}','${Apellido1}','${CUI_1}','${Email1}','${FechaRegistro1}','${Genero1}','${InstitucionBancaria1}','${TipoCuenta1}',${SaldoInicial1})`, params: []
+        },
+        {
+            query: `INSERT INTO cuentahabiente(Nombre,Apellido,CUI,Email,FechaRegistro,Genero,InstitucionBancaria,TipoCuenta,SaldoInicial) 
+            VALUES('${Nombre2}','${Apellido2}','${CUI_2}','${Email2}','${FechaRegistro2}','${Genero2}','${InstitucionBancaria2}','${TipoCuenta2}',${SaldoInicial2})`, params: []
         }
-    );
+    ]
 
-    // Guardar Credito de el cuentahabiente
+    client.batch(queries, { prepare: true })
+        .then(function () {
+            console.log('OK')
+            res.json({ mensaje: 'OK' })
+        })
+        .catch(function (err) {
+            console.log(err)
+            res.json({ mensaje: err })
+        });
 
-    client.execute(`INSERT INTO operaciones_cuentahabiente_credito(Nombre1,Apellido1,CUI_1,Email1,FechaRegistro1,Genero1,
-        InstitucionBancaria1,Abreviatura1,TipoCuenta1,SaldoInicial1,Nombre2,Apellido2,CUI_2,Email2,FechaRegistro2,Genero2,InstitucionBancaria2,
-        Abreviatura2,TipoCuenta2,SaldoInicial2,Monto,Fecha) VALUES('${Nombre1}','${Apellido1}','${CUI_1}','${Email1}','${FechaRegistro1}','${Genero1}','${InstitucionBancaria1}',
-        '${Abreviatura1}','${TipoCuenta1}',${SaldoInicial1},'${Nombre2}','${Apellido2}','${CUI_2}','${Email2}','${FechaRegistro2}',
-        '${Genero2}','${InstitucionBancaria2}','${Abreviatura2}','${TipoCuenta2}',${SaldoInicial2},${Monto},dateof(now()))`).then(
-        result => {
-            console.log('OK Guardar Credito de el cuentahabiente')
-            this.total++;
-        }, err => {
-            res.json(err);
-            return;
-        }
-    );
 
-     // Guardar Debito en la institucion
-
-     client.execute(`INSERT INTO operaciones_institucion_debito(Nombre1,Apellido1,CUI_1,InstitucionBancaria1,Abreviatura1,TipoCuenta1,Nombre2,
-        Apellido2,CUI_2,InstitucionBancaria2,Abreviatura2,TipoCuenta2,Monto,Fecha) VALUES('${Nombre1}','${Apellido1}','${CUI_1}',
-        '${InstitucionBancaria1}','${Abreviatura1}','${TipoCuenta1}','${Nombre2}','${Apellido2}','${CUI_2}','${InstitucionBancaria2}'
-        ,'${Abreviatura2}','${TipoCuenta2}',${Monto},dateof(now()))`).then(
-        result => {
-            console.log('OK Guardar Debito en la institucion')
-            this.total++;
-        }, err => {
-            res.json(err);
-            return;
-        }
-    );
-
-    // Guardar Credito en la institucion
-
-    client.execute(`INSERT INTO operaciones_institucion_credito(Nombre1,Apellido1,CUI_1,InstitucionBancaria1,Abreviatura1,TipoCuenta1,Nombre2,
-        Apellido2,CUI_2,InstitucionBancaria2,Abreviatura2,TipoCuenta2,Monto,Fecha) VALUES('${Nombre1}','${Apellido1}','${CUI_1}',
-        '${InstitucionBancaria1}','${Abreviatura1}','${TipoCuenta1}','${Nombre2}','${Apellido2}','${CUI_2}','${InstitucionBancaria2}'
-        ,'${Abreviatura2}','${TipoCuenta2}',${Monto},dateof(now()))`).then(
-        result => {
-            console.log('OK Guardar Credito en la institucion')
-            this.total++;
-            res.json({mensaje:total})
-        }, err => {
-            res.json(err);
-            return;
-        }
-    );
 
 });
 
